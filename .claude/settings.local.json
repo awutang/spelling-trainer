@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(openspec instructions *)",
+      "Bash(node -c /Users/ayutang/mygithub/open-spec-test/app.js)",
+      "Bash(node *)",
+      "Bash(npx --yes serve -s . -p 3456)",
+      "Bash(curl -s http://localhost:3456/index.html)",
+      "Bash(pkill -f \"serve -s\")",
+      "Bash(openspec status *)",
+      "Bash(ssh *)"
+    ]
+  }
+}

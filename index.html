@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>雅思拼写训练器</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <!-- Header -->
+    <header id="header">
+      <h1>📝 雅思拼写训练器</h1>
+      <div id="progress-info" class="hidden">
+        <span id="round-progress">第 1/15 词</span>
+        <span id="round-counter">✅ 0 | ❌ 0</span>
+      </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main id="main-content">
+
+      <!-- IDLE Screen -->
+      <section id="screen-idle" class="screen active">
+        <div class="idle-content">
+          <div class="logo">✍️</div>
+          <h2>雅思拼写训练</h2>
+          <p>看中文释义 → 15秒内拼出英文单词</p>
+          <div class="rule-list">
+            <div class="rule-item">⏱ 每词 15 秒倒计时</div>
+            <div class="rule-item">🔊 自动播放真人发音</div>
+            <div class="rule-item">🔄 一轮 15 个单词</div>
+            <div class="rule-item">📊 结束后统计正确率</div>
+          </div>
+          <button id="btn-start" class="btn btn-primary btn-large">开始训练</button>
+          <button id="btn-review" class="btn btn-secondary">复习错词 (<span id="wrong-count-badge">0</span>)</button>
+          <button id="btn-export" class="btn btn-text">导出错词</button>
+        </div>
+      </section>
+
+      <!-- PLAYING Screen -->
+      <section id="screen-playing" class="screen">
+        <div class="game-content">
+          <!-- Timer Bar -->
+          <div class="timer-section">
+            <div id="timer-bar-container">
+              <div id="timer-bar"></div>
+            </div>
+            <span id="timer-text">15s</span>
+          </div>
+
+          <!-- Word Display -->
+          <div class="word-display">
+            <div id="word-meaning" class="word-meaning"></div>
+            <div id="word-phonetic" class="word-phonetic hidden"></div>
+            <div id="word-example" class="word-example hidden"></div>
+            <div id="audio-indicator" class="audio-indicator hidden">🔊 发音已播放</div>
+          </div>
+
+          <!-- Input -->
+          <div class="input-section">
+            <input type="text" id="word-input" class="word-input" placeholder="在此输入英文单词..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" disabled>
+            <div id="input-feedback" class="input-feedback hidden"></div>
+          </div>
+
+          <!-- Action - only visible on timeout/wrong -->
+          <div id="action-section" class="action-section hidden">
+            <div id="error-display" class="error-display">
+              <span id="error-label"></span>
+              <span id="correct-word-display"></span>
+            </div>
+            <button id="btn-next" class="btn btn-primary btn-next">下一词 →</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- ROUND_END Screen -->
+      <section id="screen-round-end" class="screen">
+        <div class="result-content">
+          <div class="result-header">
+            <div class="result-icon">🎉</div>
+            <h2>本轮完成！</h2>
+          </div>
+          <div class="result-stats">
+            <div class="stat-item">
+              <span class="stat-value correct-count" id="result-correct">0</span>
+              <span class="stat-label">正确</span>
+            </div>
+            <div class="stat-divider"></div>
+            <div class="stat-item">
+              <span class="stat-value wrong-count" id="result-wrong">0</span>
+              <span class="stat-label">错误</span>
+            </div>
+            <div class="stat-divider"></div>
+            <div class="stat-item">
+              <span class="stat-value" id="result-rate">0%</span>
+              <span class="stat-label">正确率</span>
+            </div>
+          </div>
+
+          <div id="wrong-list-section" class="hidden">
+            <h3>错词列表</h3>
+            <ul id="wrong-word-list"></ul>
+          </div>
+
+          <div class="round-time">
+            ⏱ 本轮用时: <span id="result-time">0:00</span>
+          </div>
+
+          <div class="result-actions">
+            <button id="btn-review-wrong" class="btn btn-primary">复习错词</button>
+            <button id="btn-next-round" class="btn btn-secondary">下一轮</button>
+            <button id="btn-back-home" class="btn btn-text">返回首页</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- LOADING Screen -->
+      <section id="screen-loading" class="screen">
+        <div class="loading-content">
+          <div class="spinner"></div>
+          <p>加载词库中...</p>
+        </div>
+      </section>
+
+      <!-- ERROR Screen -->
+      <section id="screen-error" class="screen">
+        <div class="error-content">
+          <div class="error-icon">⚠️</div>
+          <h2>加载失败</h2>
+          <p id="error-message">词库加载失败，请刷新页面重试。</p>
+          <button id="btn-retry" class="btn btn-primary">重试</button>
+        </div>
+      </section>
+    </main>
+
+    <!-- Toast notification -->
+    <div id="toast" class="toast hidden"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

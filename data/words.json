@@ -1,0 +1,3392 @@
+[
+  {
+    "word": "abandon",
+    "meaning_zh": "v. 放弃；遗弃",
+    "phonetic": "/əˈbændən/",
+    "example": "The researchers had to abandon their original hypothesis after the experiment failed."
+  },
+  {
+    "word": "absorb",
+    "meaning_zh": "v. 吸收；吸引（注意力）",
+    "phonetic": "/əbˈzɔːb/",
+    "example": "Plants absorb carbon dioxide from the atmosphere during photosynthesis."
+  },
+  {
+    "word": "abstract",
+    "meaning_zh": "adj. 抽象的；n. 摘要",
+    "phonetic": "/ˈæbstrækt/",
+    "example": "The concept of freedom is too abstract for young children to fully understand."
+  },
+  {
+    "word": "abundant",
+    "meaning_zh": "adj. 丰富的；充足的",
+    "phonetic": "/əˈbʌndənt/",
+    "example": "The region is blessed with abundant natural resources such as oil and minerals."
+  },
+  {
+    "word": "academic",
+    "meaning_zh": "adj. 学术的；n. 大学教师",
+    "phonetic": "/ˌækəˈdemɪk/",
+    "example": "Her outstanding academic achievements earned her a scholarship to study abroad."
+  },
+  {
+    "word": "accelerate",
+    "meaning_zh": "v. 加速；促进",
+    "phonetic": "/əkˈseləreɪt/",
+    "example": "The government introduced new policies to accelerate economic growth."
+  },
+  {
+    "word": "access",
+    "meaning_zh": "n. 通道；机会；v. 访问",
+    "phonetic": "/ˈækses/",
+    "example": "Students have free access to all library resources during term time."
+  },
+  {
+    "word": "accommodate",
+    "meaning_zh": "v. 容纳；向……提供住处",
+    "phonetic": "/əˈkɒmədeɪt/",
+    "example": "The hotel can accommodate up to 300 guests at any one time."
+  },
+  {
+    "word": "accompany",
+    "meaning_zh": "v. 陪伴；伴随",
+    "phonetic": "/əˈkʌmpəni/",
+    "example": "Each application form must be accompanied by a recent photograph."
+  },
+  {
+    "word": "accumulate",
+    "meaning_zh": "v. 积累；积聚",
+    "phonetic": "/əˈkjuːmjʊleɪt/",
+    "example": "Dust and dirt tend to accumulate on surfaces that are not cleaned regularly."
+  },
+  {
+    "word": "accurate",
+    "meaning_zh": "adj. 精确的；准确的",
+    "phonetic": "/ˈækjʊrət/",
+    "example": "It is important to keep accurate records of all financial transactions."
+  },
+  {
+    "word": "achieve",
+    "meaning_zh": "v. 实现；达到；获得",
+    "phonetic": "/əˈtʃiːv/",
+    "example": "She worked hard to achieve her dream of becoming a qualified doctor."
+  },
+  {
+    "word": "acknowledge",
+    "meaning_zh": "v. 承认；确认；致谢",
+    "phonetic": "/əkˈnɒlɪdʒ/",
+    "example": "The government finally acknowledged the urgent need for educational reform."
+  },
+  {
+    "word": "acquire",
+    "meaning_zh": "v. 获得；学到",
+    "phonetic": "/əˈkwaɪə/",
+    "example": "Children acquire language skills naturally through constant exposure and practice."
+  },
+  {
+    "word": "adapt",
+    "meaning_zh": "v. 适应；改编",
+    "phonetic": "/əˈdæpt/",
+    "example": "Organisms must adapt to changes in their environment in order to survive."
+  },
+  {
+    "word": "adequate",
+    "meaning_zh": "adj. 足够的；适当的",
+    "phonetic": "/ˈædɪkwət/",
+    "example": "The supply of clean drinking water is not adequate for the growing population."
+  },
+  {
+    "word": "adjust",
+    "meaning_zh": "v. 调整；调节；适应",
+    "phonetic": "/əˈdʒʌst/",
+    "example": "It took her a few weeks to adjust to the new time zone after moving abroad."
+  },
+  {
+    "word": "administration",
+    "meaning_zh": "n. 管理；行政；行政部门",
+    "phonetic": "/ədˌmɪnɪˈstreɪʃn/",
+    "example": "The university administration decided to increase tuition fees for international students."
+  },
+  {
+    "word": "adopt",
+    "meaning_zh": "v. 采用；收养",
+    "phonetic": "/əˈdɒpt/",
+    "example": "Many companies have adopted flexible working hours to improve employee satisfaction."
+  },
+  {
+    "word": "advance",
+    "meaning_zh": "n. 进步；v. 前进；推进",
+    "phonetic": "/ədˈvɑːns/",
+    "example": "Recent advances in medical technology have transformed the healthcare industry."
+  },
+  {
+    "word": "adverse",
+    "meaning_zh": "adj. 不利的；相反的",
+    "phonetic": "/ˈædvɜːs/",
+    "example": "The medication can cause adverse side effects in some patients."
+  },
+  {
+    "word": "advocate",
+    "meaning_zh": "v. 提倡；主张；n. 拥护者",
+    "phonetic": "/ˈædvəkeɪt/",
+    "example": "Environmental groups strongly advocate for stricter pollution controls."
+  },
+  {
+    "word": "affect",
+    "meaning_zh": "v. 影响；感动",
+    "phonetic": "/əˈfekt/",
+    "example": "Climate change will significantly affect agricultural production worldwide."
+  },
+  {
+    "word": "afford",
+    "meaning_zh": "v. 负担得起；提供",
+    "phonetic": "/əˈfɔːd/",
+    "example": "Not every family can afford to send their children to private schools."
+  },
+  {
+    "word": "aggregate",
+    "meaning_zh": "n. 合计；总数；adj. 总计的",
+    "phonetic": "/ˈæɡrɪɡət/",
+    "example": "The aggregate demand for housing has increased significantly over the past decade."
+  },
+  {
+    "word": "aggression",
+    "meaning_zh": "n. 侵略；攻击性",
+    "phonetic": "/əˈɡreʃn/",
+    "example": "The aggression displayed by some animals is closely linked to territorial disputes."
+  },
+  {
+    "word": "agreement",
+    "meaning_zh": "n. 协议；一致",
+    "phonetic": "/əˈɡriːmənt/",
+    "example": "The two countries finally signed a trade agreement after months of negotiation."
+  },
+  {
+    "word": "allocate",
+    "meaning_zh": "v. 分配；划拨",
+    "phonetic": "/ˈæləkeɪt/",
+    "example": "The government plans to allocate more funds to the education and health sectors."
+  },
+  {
+    "word": "alternative",
+    "meaning_zh": "n. 替代选择；adj. 替代的",
+    "phonetic": "/ɔːlˈtɜːnətɪv/",
+    "example": "We need to find an alternative source of energy to reduce carbon emissions."
+  },
+  {
+    "word": "ambitious",
+    "meaning_zh": "adj. 雄心勃勃的；有野心的",
+    "phonetic": "/æmˈbɪʃəs/",
+    "example": "The company has ambitious plans to expand its operations into international markets."
+  },
+  {
+    "word": "amend",
+    "meaning_zh": "v. 修正；修订",
+    "phonetic": "/əˈmend/",
+    "example": "The constitution was amended to guarantee equal rights for all citizens."
+  },
+  {
+    "word": "amount",
+    "meaning_zh": "n. 数量；v. 总计",
+    "phonetic": "/əˈmaʊnt/",
+    "example": "A significant amount of research has been conducted on this topic."
+  },
+  {
+    "word": "analysis",
+    "meaning_zh": "n. 分析；解析",
+    "phonetic": "/əˈnæləsɪs/",
+    "example": "The data analysis revealed some surprising trends in consumer behaviour."
+  },
+  {
+    "word": "ancient",
+    "meaning_zh": "adj. 古代的；古老的",
+    "phonetic": "/ˈeɪnʃənt/",
+    "example": "The ancient ruins attract thousands of tourists from around the world every year."
+  },
+  {
+    "word": "annual",
+    "meaning_zh": "adj. 每年的；年度的",
+    "phonetic": "/ˈænjuəl/",
+    "example": "The company publishes an annual report to inform shareholders of its performance."
+  },
+  {
+    "word": "apartment",
+    "meaning_zh": "n. 公寓；套房",
+    "phonetic": "/əˈpɑːtmənt/",
+    "example": "They rented a small apartment in the city centre near the university."
+  },
+  {
+    "word": "apparent",
+    "meaning_zh": "adj. 明显的；显而易见的",
+    "phonetic": "/əˈpærənt/",
+    "example": "It was apparent that the project would not be completed on time."
+  },
+  {
+    "word": "appeal",
+    "meaning_zh": "v. 呼吁；上诉；吸引；n. 吸引力",
+    "phonetic": "/əˈpiːl/",
+    "example": "The charity organisation appealed for donations to help the flood victims."
+  },
+  {
+    "word": "application",
+    "meaning_zh": "n. 申请；应用；应用程序",
+    "phonetic": "/ˌæplɪˈkeɪʃn/",
+    "example": "The application of new technology has greatly improved manufacturing efficiency."
+  },
+  {
+    "word": "apply",
+    "meaning_zh": "v. 申请；应用；适用",
+    "phonetic": "/əˈplaɪ/",
+    "example": "You need to apply for a student visa before travelling to the country."
+  },
+  {
+    "word": "approach",
+    "meaning_zh": "v. 接近；n. 方法；途径",
+    "phonetic": "/əˈprəʊtʃ/",
+    "example": "The teacher adopted a completely new approach to teaching mathematics."
+  },
+  {
+    "word": "appropriate",
+    "meaning_zh": "adj. 适当的；恰当的",
+    "phonetic": "/əˈprəʊpriət/",
+    "example": "It is important to wear appropriate clothing for a formal job interview."
+  },
+  {
+    "word": "approve",
+    "meaning_zh": "v. 批准；赞成",
+    "phonetic": "/əˈpruːv/",
+    "example": "The committee approved the budget for the new research project."
+  },
+  {
+    "word": "area",
+    "meaning_zh": "n. 区域；领域；面积",
+    "phonetic": "/ˈeəriə/",
+    "example": "The city has several designated conservation areas for wildlife protection."
+  },
+  {
+    "word": "argue",
+    "meaning_zh": "v. 争论；辩论；论证",
+    "phonetic": "/ˈɑːɡjuː/",
+    "example": "Many economists argue that inflation must be controlled to ensure stability."
+  },
+  {
+    "word": "arise",
+    "meaning_zh": "v. 出现；产生；起源于",
+    "phonetic": "/əˈraɪz/",
+    "example": "Problems are likely to arise if the schedule is too tight."
+  },
+  {
+    "word": "arrange",
+    "meaning_zh": "v. 安排；整理",
+    "phonetic": "/əˈreɪndʒ/",
+    "example": "The travel agency arranged all the accommodation for our holiday trip."
+  },
+  {
+    "word": "article",
+    "meaning_zh": "n. 文章；物品；冠词",
+    "phonetic": "/ˈɑːtɪkl/",
+    "example": "She published an article about climate change in a leading scientific journal."
+  },
+  {
+    "word": "artificial",
+    "meaning_zh": "adj. 人造的；虚假的",
+    "phonetic": "/ˌɑːtɪˈfɪʃl/",
+    "example": "Artificial intelligence is rapidly transforming many industries and aspects of daily life."
+  },
+  {
+    "word": "aspect",
+    "meaning_zh": "n. 方面；层面",
+    "phonetic": "/ˈæspekt/",
+    "example": "We need to consider every aspect of the problem before making a final decision."
+  },
+  {
+    "word": "assess",
+    "meaning_zh": "v. 评估；评价",
+    "phonetic": "/əˈses/",
+    "example": "Teachers assess students' progress through a variety of tests and assignments."
+  },
+  {
+    "word": "assign",
+    "meaning_zh": "v. 分配；指定；指派",
+    "phonetic": "/əˈsaɪn/",
+    "example": "Each student was assigned a different topic for the final research project."
+  },
+  {
+    "word": "assist",
+    "meaning_zh": "v. 帮助；协助",
+    "phonetic": "/əˈsɪst/",
+    "example": "The government provides financial support to assist small businesses."
+  },
+  {
+    "word": "assume",
+    "meaning_zh": "v. 假设；承担；呈现",
+    "phonetic": "/əˈsjuːm/",
+    "example": "It is reasonable to assume that house prices will continue to rise."
+  },
+  {
+    "word": "attach",
+    "meaning_zh": "v. 附上；连接；使依恋",
+    "phonetic": "/əˈtætʃ/",
+    "example": "Please attach your curriculum vitae and cover letter to the application email."
+  },
+  {
+    "word": "attempt",
+    "meaning_zh": "v. 尝试；企图；n. 尝试",
+    "phonetic": "/əˈtempt/",
+    "example": "The climbers made another attempt to reach the summit before noon."
+  },
+  {
+    "word": "attend",
+    "meaning_zh": "v. 参加；出席；照料",
+    "phonetic": "/əˈtend/",
+    "example": "All first-year students are required to attend the orientation session."
+  },
+  {
+    "word": "attitude",
+    "meaning_zh": "n. 态度；看法",
+    "phonetic": "/ˈætɪtjuːd/",
+    "example": "A positive attitude towards learning can greatly affect your academic success."
+  },
+  {
+    "word": "attract",
+    "meaning_zh": "v. 吸引；引起",
+    "phonetic": "/əˈtrækt/",
+    "example": "The museum's new exhibition attracted a large number of visitors."
+  },
+  {
+    "word": "audience",
+    "meaning_zh": "n. 观众；听众",
+    "phonetic": "/ˈɔːdiəns/",
+    "example": "The speaker engaged the audience with a series of thought-provoking questions."
+  },
+  {
+    "word": "author",
+    "meaning_zh": "n. 作者；作家",
+    "phonetic": "/ˈɔːθə/",
+    "example": "The author has written several best-selling novels over the past decade."
+  },
+  {
+    "word": "available",
+    "meaning_zh": "adj. 可用的；有效的；有空闲的",
+    "phonetic": "/əˈveɪləbl/",
+    "example": "A wide range of data is available for researchers to analyse."
+  },
+  {
+    "word": "average",
+    "meaning_zh": "n. 平均数；adj. 平均的；普通的",
+    "phonetic": "/ˈævərɪdʒ/",
+    "example": "The average temperature in this region has increased by two degrees Celsius."
+  },
+  {
+    "word": "avoid",
+    "meaning_zh": "v. 避免；回避",
+    "phonetic": "/əˈvɔɪd/",
+    "example": "To maintain good health, you should avoid consuming too much processed sugar."
+  },
+  {
+    "word": "aware",
+    "meaning_zh": "adj. 意识到的；知道的",
+    "phonetic": "/əˈweə/",
+    "example": "The public is becoming increasingly aware of the importance of environmental protection."
+  },
+  {
+    "word": "background",
+    "meaning_zh": "n. 背景；出身；背景资料",
+    "phonetic": "/ˈbækɡraʊnd/",
+    "example": "Students from diverse cultural backgrounds study at this international university."
+  },
+  {
+    "word": "bargain",
+    "meaning_zh": "n. 便宜货；交易；v. 讨价还价",
+    "phonetic": "/ˈbɑːɡɪn/",
+    "example": "She managed to bargain the price down to a more reasonable level."
+  },
+  {
+    "word": "basis",
+    "meaning_zh": "n. 基础；根据；原则",
+    "phonetic": "/ˈbeɪsɪs/",
+    "example": "Decisions should be made on the basis of reliable evidence and careful analysis."
+  },
+  {
+    "word": "behaviour",
+    "meaning_zh": "n. 行为；举止；习性",
+    "phonetic": "/bɪˈheɪvjə/",
+    "example": "The study examined the buying behaviour of consumers in online markets."
+  },
+  {
+    "word": "benefit",
+    "meaning_zh": "n. 利益；好处；v. 受益",
+    "phonetic": "/ˈbenɪfɪt/",
+    "example": "Regular physical exercise has numerous health benefits for people of all ages."
+  },
+  {
+    "word": "bias",
+    "meaning_zh": "n. 偏见；偏向；v. 使有偏见",
+    "phonetic": "/ˈbaɪəs/",
+    "example": "The researcher took great care to eliminate bias from the study design."
+  },
+  {
+    "word": "boost",
+    "meaning_zh": "v. 促进；提高；n. 推动",
+    "phonetic": "/buːst/",
+    "example": "The new economic policy is expected to boost job creation and growth."
+  },
+  {
+    "word": "brief",
+    "meaning_zh": "adj. 简短的；简洁的；n. 摘要",
+    "phonetic": "/briːf/",
+    "example": "The CEO gave a brief overview of the company's annual performance."
+  },
+  {
+    "word": "budget",
+    "meaning_zh": "n. 预算；v. 编制预算",
+    "phonetic": "/ˈbʌdʒɪt/",
+    "example": "The construction project was completed within the allocated budget."
+  },
+  {
+    "word": "calculate",
+    "meaning_zh": "v. 计算；推算",
+    "phonetic": "/ˈkælkjʊleɪt/",
+    "example": "Engineers must carefully calculate the load-bearing capacity of the bridge."
+  },
+  {
+    "word": "campaign",
+    "meaning_zh": "n. 运动；战役；v. 参加运动",
+    "phonetic": "/kæmˈpeɪn/",
+    "example": "The environmental campaign raised public awareness about plastic pollution."
+  },
+  {
+    "word": "cancel",
+    "meaning_zh": "v. 取消；撤销",
+    "phonetic": "/ˈkænsl/",
+    "example": "All flights were cancelled due to the severe weather conditions."
+  },
+  {
+    "word": "capable",
+    "meaning_zh": "adj. 有能力的；能干的",
+    "phonetic": "/ˈkeɪpəbl/",
+    "example": "She is a highly capable manager who leads her team effectively."
+  },
+  {
+    "word": "capacity",
+    "meaning_zh": "n. 能力；容量；生产力",
+    "phonetic": "/kəˈpæsəti/",
+    "example": "The auditorium has a seating capacity of over five hundred people."
+  },
+  {
+    "word": "capture",
+    "meaning_zh": "v. 捕获；俘虏；拍摄；吸引",
+    "phonetic": "/ˈkæptʃə/",
+    "example": "The photographer managed to capture the beauty of the sunset perfectly."
+  },
+  {
+    "word": "category",
+    "meaning_zh": "n. 类别；种类",
+    "phonetic": "/ˈkætəɡəri/",
+    "example": "The books are organised into different categories according to genre."
+  },
+  {
+    "word": "cause",
+    "meaning_zh": "n. 原因；事业；v. 引起",
+    "phonetic": "/kɔːz/",
+    "example": "Scientists are still investigating the root cause of the disease."
+  },
+  {
+    "word": "celebrate",
+    "meaning_zh": "v. 庆祝；颂扬",
+    "phonetic": "/ˈselɪbreɪt/",
+    "example": "People celebrate the festival with traditional music and dancing."
+  },
+  {
+    "word": "central",
+    "meaning_zh": "adj. 中心的；主要的",
+    "phonetic": "/ˈsentrəl/",
+    "example": "The central argument of the article is that education needs urgent reform."
+  },
+  {
+    "word": "challenge",
+    "meaning_zh": "n. 挑战；v. 质疑；挑战",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "example": "Finding affordable housing is a major challenge for young people in cities."
+  },
+  {
+    "word": "character",
+    "meaning_zh": "n. 性格；特征；角色；字符",
+    "phonetic": "/ˈkærəktə/",
+    "example": "The main character in the novel undergoes a significant personal transformation."
+  },
+  {
+    "word": "charge",
+    "meaning_zh": "v. 收费；控告；充电；n. 费用",
+    "phonetic": "/tʃɑːdʒ/",
+    "example": "The museum charges a small admission fee for visitors."
+  },
+  {
+    "word": "circumstance",
+    "meaning_zh": "n. 环境；情况；状况",
+    "phonetic": "/ˈsɜːkəmstəns/",
+    "example": "Under normal circumstances, the project would be completed within a year."
+  },
+  {
+    "word": "citizen",
+    "meaning_zh": "n. 公民；市民",
+    "phonetic": "/ˈsɪtɪzn/",
+    "example": "All citizens have the right to vote in national elections."
+  },
+  {
+    "word": "claim",
+    "meaning_zh": "v. 声称；要求；n. 主张；索赔",
+    "phonetic": "/kleɪm/",
+    "example": "The scientist claimed to have discovered a new species in the rainforest."
+  },
+  {
+    "word": "climate",
+    "meaning_zh": "n. 气候",
+    "phonetic": "/ˈklaɪmət/",
+    "example": "Climate change is one of the most pressing issues facing humanity today."
+  },
+  {
+    "word": "collapse",
+    "meaning_zh": "v. 倒塌；崩溃；n. 倒塌",
+    "phonetic": "/kəˈlæps/",
+    "example": "The old building collapsed after days of heavy rainfall."
+  },
+  {
+    "word": "colleague",
+    "meaning_zh": "n. 同事；同僚",
+    "phonetic": "/ˈkɒliːɡ/",
+    "example": "She discussed the proposal with her colleagues before making a decision."
+  },
+  {
+    "word": "combine",
+    "meaning_zh": "v. 结合；联合；合并",
+    "phonetic": "/kəmˈbaɪn/",
+    "example": "The training programme combines theoretical knowledge with practical experience."
+  },
+  {
+    "word": "commercial",
+    "meaning_zh": "adj. 商业的；n. 商业广告",
+    "phonetic": "/kəˈmɜːʃl/",
+    "example": "The commercial district is full of shops and office buildings."
+  },
+  {
+    "word": "commit",
+    "meaning_zh": "v. 犯（罪）；承诺；致力于",
+    "phonetic": "/kəˈmɪt/",
+    "example": "The government must commit more resources to improving public healthcare."
+  },
+  {
+    "word": "communicate",
+    "meaning_zh": "v. 交流；沟通；传达",
+    "phonetic": "/kəˈmjuːnɪkeɪt/",
+    "example": "It is important to communicate clearly and effectively in a business environment."
+  },
+  {
+    "word": "community",
+    "meaning_zh": "n. 社区；团体；社会",
+    "phonetic": "/kəˈmjuːnəti/",
+    "example": "The local community came together to support the new library project."
+  },
+  {
+    "word": "compare",
+    "meaning_zh": "v. 比较；对比；比喻",
+    "phonetic": "/kəmˈpeə/",
+    "example": "The report compares the education systems of different countries."
+  },
+  {
+    "word": "compensate",
+    "meaning_zh": "v. 补偿；赔偿；弥补",
+    "phonetic": "/ˈkɒmpenseɪt/",
+    "example": "The insurance company will compensate you for the damage to your property."
+  },
+  {
+    "word": "compete",
+    "meaning_zh": "v. 竞争；比赛；对抗",
+    "phonetic": "/kəmˈpiːt/",
+    "example": "Small businesses often find it difficult to compete with large corporations."
+  },
+  {
+    "word": "complex",
+    "meaning_zh": "adj. 复杂的；合成的；n. 综合体",
+    "phonetic": "/ˈkɒmpleks/",
+    "example": "The problem is far more complex than it initially appears to be."
+  },
+  {
+    "word": "complicate",
+    "meaning_zh": "v. 使复杂化；使难办",
+    "phonetic": "/ˈkɒmplɪkeɪt/",
+    "example": "The new regulations are likely to complicate the application process."
+  },
+  {
+    "word": "component",
+    "meaning_zh": "n. 成分；组件；要素",
+    "phonetic": "/kəmˈpəʊnənt/",
+    "example": "Each component of the machine must be thoroughly tested before assembly."
+  },
+  {
+    "word": "compose",
+    "meaning_zh": "v. 组成；创作；撰写",
+    "phonetic": "/kəmˈpəʊz/",
+    "example": "The committee is composed of experts from various fields."
+  },
+  {
+    "word": "comprehension",
+    "meaning_zh": "n. 理解；理解力",
+    "phonetic": "/ˌkɒmprɪˈhenʃn/",
+    "example": "Reading comprehension is an essential skill for academic success."
+  },
+  {
+    "word": "comprehensive",
+    "meaning_zh": "adj. 全面的；综合的；广泛的",
+    "phonetic": "/ˌkɒmprɪˈhensɪv/",
+    "example": "The report provides a comprehensive analysis of the current economic situation."
+  },
+  {
+    "word": "concentrate",
+    "meaning_zh": "v. 集中；专注；浓缩",
+    "phonetic": "/ˈkɒnsntreɪt/",
+    "example": "I need peace and quiet to concentrate on my studies."
+  },
+  {
+    "word": "concept",
+    "meaning_zh": "n. 概念；观念；想法",
+    "phonetic": "/ˈkɒnsept/",
+    "example": "The concept of democracy originated in ancient Greece."
+  },
+  {
+    "word": "conclude",
+    "meaning_zh": "v. 得出结论；结束；终止",
+    "phonetic": "/kənˈkluːd/",
+    "example": "The study concluded that regular exercise significantly improves mental health."
+  },
+  {
+    "word": "concrete",
+    "meaning_zh": "adj. 具体的；实在的；n. 混凝土",
+    "phonetic": "/ˈkɒŋkriːt/",
+    "example": "We need concrete evidence to support this hypothesis."
+  },
+  {
+    "word": "conduct",
+    "meaning_zh": "v. 进行；指挥；引导；n. 行为",
+    "phonetic": "/kənˈdʌkt/",
+    "example": "The scientist conducted a series of experiments to test the theory."
+  },
+  {
+    "word": "conference",
+    "meaning_zh": "n. 会议；讨论会；协商会",
+    "phonetic": "/ˈkɒnfərəns/",
+    "example": "She will be presenting her research at an international conference."
+  },
+  {
+    "word": "confidence",
+    "meaning_zh": "n. 信心；自信；信任",
+    "phonetic": "/ˈkɒnfɪdəns/",
+    "example": "Regular practice will help you build confidence in speaking English."
+  },
+  {
+    "word": "confirm",
+    "meaning_zh": "v. 确认；证实；批准",
+    "phonetic": "/kənˈfɜːm/",
+    "example": "The test results confirmed the doctor's initial diagnosis."
+  },
+  {
+    "word": "conflict",
+    "meaning_zh": "n. 冲突；矛盾；v. 冲突",
+    "phonetic": "/ˈkɒnflɪkt/",
+    "example": "The conflict between the two groups lasted for several years."
+  },
+  {
+    "word": "consequence",
+    "meaning_zh": "n. 结果；后果；重要性",
+    "phonetic": "/ˈkɒnsɪkwəns/",
+    "example": "He had to face the serious consequences of his careless actions."
+  },
+  {
+    "word": "conservation",
+    "meaning_zh": "n. 保护；保存；节约",
+    "phonetic": "/ˌkɒnsəˈveɪʃn/",
+    "example": "Wildlife conservation is essential for maintaining biodiversity."
+  },
+  {
+    "word": "conservative",
+    "meaning_zh": "adj. 保守的；传统的；n. 保守派",
+    "phonetic": "/kənˈsɜːvətɪv/",
+    "example": "His conservative views on education often spark debate."
+  },
+  {
+    "word": "consider",
+    "meaning_zh": "v. 考虑；认为；体谅",
+    "phonetic": "/kənˈsɪdə/",
+    "example": "You should carefully consider all options before making a final decision."
+  },
+  {
+    "word": "considerable",
+    "meaning_zh": "adj. 相当大的；重要的；可观的",
+    "phonetic": "/kənˈsɪdərəbl/",
+    "example": "The project required a considerable amount of time and effort."
+  },
+  {
+    "word": "consistent",
+    "meaning_zh": "adj. 一致的；一贯的；相符的",
+    "phonetic": "/kənˈsɪstənt/",
+    "example": "The experimental results are consistent with our theoretical predictions."
+  },
+  {
+    "word": "constant",
+    "meaning_zh": "adj. 持续的；不变的；不断的",
+    "phonetic": "/ˈkɒnstənt/",
+    "example": "The city is in a constant state of change and development."
+  },
+  {
+    "word": "construct",
+    "meaning_zh": "v. 建造；构建；创立",
+    "phonetic": "/kənˈstrʌkt/",
+    "example": "The bridge was constructed over a period of three years."
+  },
+  {
+    "word": "consume",
+    "meaning_zh": "v. 消费；消耗；耗尽",
+    "phonetic": "/kənˈsjuːm/",
+    "example": "The average household consumes a significant amount of electricity each month."
+  },
+  {
+    "word": "contact",
+    "meaning_zh": "n. 联系；接触；v. 联系",
+    "phonetic": "/ˈkɒntækt/",
+    "example": "Please do not hesitate to contact us if you have any questions."
+  },
+  {
+    "word": "contain",
+    "meaning_zh": "v. 包含；容纳；控制",
+    "phonetic": "/kənˈteɪn/",
+    "example": "This book contains a wealth of information on the subject."
+  },
+  {
+    "word": "contemporary",
+    "meaning_zh": "adj. 当代的；现代的；同时代的",
+    "phonetic": "/kənˈtempərəri/",
+    "example": "The museum specialises in contemporary art from around the world."
+  },
+  {
+    "word": "contribute",
+    "meaning_zh": "v. 贡献；促成；投稿",
+    "phonetic": "/kənˈtrɪbjuːt/",
+    "example": "Regular exercise and a balanced diet contribute to good health."
+  },
+  {
+    "word": "controversy",
+    "meaning_zh": "n. 争议；争论；论战",
+    "phonetic": "/kənˈtrɒvəsi/",
+    "example": "The government's decision caused a lot of controversy among the public."
+  },
+  {
+    "word": "convenient",
+    "meaning_zh": "adj. 方便的；便利的；附近的",
+    "phonetic": "/kənˈviːniənt/",
+    "example": "Online shopping is very convenient for people with busy schedules."
+  },
+  {
+    "word": "convince",
+    "meaning_zh": "v. 说服；使确信；使信服",
+    "phonetic": "/kənˈvɪns/",
+    "example": "The overwhelming evidence convinced the jury of his innocence."
+  },
+  {
+    "word": "cooperate",
+    "meaning_zh": "v. 合作；配合；协作",
+    "phonetic": "/kəʊˈɒpəreɪt/",
+    "example": "The two countries agreed to cooperate on climate change research."
+  },
+  {
+    "word": "core",
+    "meaning_zh": "n. 核心；中心；精髓；adj. 核心的",
+    "phonetic": "/kɔː/",
+    "example": "The core of the problem lies in a lack of communication."
+  },
+  {
+    "word": "corporate",
+    "meaning_zh": "adj. 公司的；法人的；团体的",
+    "phonetic": "/ˈkɔːpərət/",
+    "example": "Corporate social responsibility has become increasingly important in business."
+  },
+  {
+    "word": "correspond",
+    "meaning_zh": "v. 对应；通信；相符",
+    "phonetic": "/ˌkɒrɪˈspɒnd/",
+    "example": "The numbers on the map correspond to different tourist attractions."
+  },
+  {
+    "word": "counsel",
+    "meaning_zh": "n. 忠告；法律顾问；v. 建议",
+    "phonetic": "/ˈkaʊnsl/",
+    "example": "Students can seek counsel from academic advisors when needed."
+  },
+  {
+    "word": "creative",
+    "meaning_zh": "adj. 创造性的；有创意的",
+    "phonetic": "/kriˈeɪtɪv/",
+    "example": "She has a highly creative approach to solving complex problems."
+  },
+  {
+    "word": "crisis",
+    "meaning_zh": "n. 危机；紧要关头",
+    "phonetic": "/ˈkraɪsɪs/",
+    "example": "The country is currently facing a severe economic crisis."
+  },
+  {
+    "word": "criteria",
+    "meaning_zh": "n. 标准；准则（复数）",
+    "phonetic": "/kraɪˈtɪəriə/",
+    "example": "The selection criteria include both academic qualifications and work experience."
+  },
+  {
+    "word": "crucial",
+    "meaning_zh": "adj. 关键的；决定性的",
+    "phonetic": "/ˈkruːʃl/",
+    "example": "Early detection is crucial for the successful treatment of the disease."
+  },
+  {
+    "word": "cultivate",
+    "meaning_zh": "v. 培养；耕种；陶冶",
+    "phonetic": "/ˈkʌltɪveɪt/",
+    "example": "It takes time and effort to cultivate good study habits."
+  },
+  {
+    "word": "curriculum",
+    "meaning_zh": "n. 课程；全部课程",
+    "phonetic": "/kəˈrɪkjʊləm/",
+    "example": "The school curriculum includes a wide range of subjects."
+  },
+  {
+    "word": "damage",
+    "meaning_zh": "n. 损害；损失；v. 损坏",
+    "phonetic": "/ˈdæmɪdʒ/",
+    "example": "The storm caused extensive damage to buildings and infrastructure."
+  },
+  {
+    "word": "debate",
+    "meaning_zh": "n. 辩论；争论；v. 辩论",
+    "phonetic": "/dɪˈbeɪt/",
+    "example": "There is an ongoing debate about the effectiveness of the new education policy."
+  },
+  {
+    "word": "decade",
+    "meaning_zh": "n. 十年；十年期",
+    "phonetic": "/ˈdekeɪd/",
+    "example": "Technology has advanced significantly over the past two decades."
+  },
+  {
+    "word": "decline",
+    "meaning_zh": "v. 下降；衰退；拒绝；n. 下降",
+    "phonetic": "/dɪˈklaɪn/",
+    "example": "The population of rural areas has declined steadily over the years."
+  },
+  {
+    "word": "decrease",
+    "meaning_zh": "v. 减少；降低；n. 减少",
+    "phonetic": "/dɪˈkriːs/",
+    "example": "The number of students enrolling in the course has decreased this year."
+  },
+  {
+    "word": "define",
+    "meaning_zh": "v. 定义；界定；明确",
+    "phonetic": "/dɪˈfaɪn/",
+    "example": "It is difficult to define happiness because it means different things to different people."
+  },
+  {
+    "word": "definitely",
+    "meaning_zh": "adv. 肯定地；明确地；当然",
+    "phonetic": "/ˈdefɪnətli/",
+    "example": "This is definitely the best solution to the problem we have found so far."
+  },
+  {
+    "word": "demonstrate",
+    "meaning_zh": "v. 展示；证明；示范；游行",
+    "phonetic": "/ˈdemənstreɪt/",
+    "example": "The experiment clearly demonstrates the principle of gravity."
+  },
+  {
+    "word": "depression",
+    "meaning_zh": "n. 沮丧；萧条；凹陷",
+    "phonetic": "/dɪˈpreʃn/",
+    "example": "The country experienced a severe economic depression in the 1930s."
+  },
+  {
+    "word": "derive",
+    "meaning_zh": "v. 源于；获得；推导",
+    "phonetic": "/dɪˈraɪv/",
+    "example": "The word derives from Latin origins."
+  },
+  {
+    "word": "deserve",
+    "meaning_zh": "v. 值得；应得；应该受到",
+    "phonetic": "/dɪˈzɜːv/",
+    "example": "Everyone deserves a fair chance to succeed in life."
+  },
+  {
+    "word": "determine",
+    "meaning_zh": "v. 决定；确定；测定",
+    "phonetic": "/dɪˈtɜːmɪn/",
+    "example": "Your exam results will help determine which university you can attend."
+  },
+  {
+    "word": "develop",
+    "meaning_zh": "v. 发展；开发；成长；培养",
+    "phonetic": "/dɪˈveləp/",
+    "example": "The country has developed rapidly over the past few decades."
+  },
+  {
+    "word": "device",
+    "meaning_zh": "n. 设备；装置；器械",
+    "phonetic": "/dɪˈvaɪs/",
+    "example": "Electronic devices have become an essential part of daily life."
+  },
+  {
+    "word": "devote",
+    "meaning_zh": "v. 致力于；奉献；把……用于",
+    "phonetic": "/dɪˈvəʊt/",
+    "example": "She devoted her entire life to helping underprivileged children."
+  },
+  {
+    "word": "diagnose",
+    "meaning_zh": "v. 诊断；判断",
+    "phonetic": "/ˈdaɪəɡnəʊz/",
+    "example": "The doctor diagnosed the patient with a rare medical condition."
+  },
+  {
+    "word": "differ",
+    "meaning_zh": "v. 不同；有区别；意见分歧",
+    "phonetic": "/ˈdɪfə/",
+    "example": "The two versions of the story differ significantly in several details."
+  },
+  {
+    "word": "dilemma",
+    "meaning_zh": "n. 困境；两难境地",
+    "phonetic": "/dɪˈlemə/",
+    "example": "She faced a moral dilemma when she discovered her colleague's mistake."
+  },
+  {
+    "word": "dimension",
+    "meaning_zh": "n. 维度；尺寸；方面",
+    "phonetic": "/daɪˈmenʃn/",
+    "example": "We need to consider the social and economic dimensions of the issue."
+  },
+  {
+    "word": "diminish",
+    "meaning_zh": "v. 减少；减弱；贬低",
+    "phonetic": "/dɪˈmɪnɪʃ/",
+    "example": "The value of the currency has diminished over time."
+  },
+  {
+    "word": "discipline",
+    "meaning_zh": "n. 纪律；学科；v. 训练",
+    "phonetic": "/ˈdɪsəplɪn/",
+    "example": "Learning a musical instrument requires patience and discipline."
+  },
+  {
+    "word": "discover",
+    "meaning_zh": "v. 发现；发觉；找到",
+    "phonetic": "/dɪˈskʌvə/",
+    "example": "Scientists have discovered a new species of frog in the rainforest."
+  },
+  {
+    "word": "discrimination",
+    "meaning_zh": "n. 歧视；辨别；区别",
+    "phonetic": "/dɪˌskrɪmɪˈneɪʃn/",
+    "example": "Laws prohibit discrimination based on race, gender or religion."
+  },
+  {
+    "word": "display",
+    "meaning_zh": "v. 展示；显示；陈列；n. 展示",
+    "phonetic": "/dɪˈspleɪ/",
+    "example": "The museum displays a collection of artifacts from ancient Egypt."
+  },
+  {
+    "word": "distinct",
+    "meaning_zh": "adj. 明显的；不同的；清晰的",
+    "phonetic": "/dɪˈstɪŋkt/",
+    "example": "There is a distinct difference between the two proposals."
+  },
+  {
+    "word": "distinguish",
+    "meaning_zh": "v. 区分；辨别；使出名",
+    "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+    "example": "It can be difficult to distinguish between genuine and fake products."
+  },
+  {
+    "word": "distribute",
+    "meaning_zh": "v. 分配；分发；分布",
+    "phonetic": "/dɪˈstrɪbjuːt/",
+    "example": "The charity distributes food and clothing to homeless people."
+  },
+  {
+    "word": "diverse",
+    "meaning_zh": "adj. 多样的；不同的；多元的",
+    "phonetic": "/daɪˈvɜːs/",
+    "example": "The city has a diverse population with people from many different cultures."
+  },
+  {
+    "word": "domestic",
+    "meaning_zh": "adj. 国内的；家庭的；驯养的",
+    "phonetic": "/dəˈmestɪk/",
+    "example": "The domestic economy has been growing steadily for several years."
+  },
+  {
+    "word": "dominant",
+    "meaning_zh": "adj. 主导的；占优势的；主要的",
+    "phonetic": "/ˈdɒmɪnənt/",
+    "example": "English has become the dominant language in international business."
+  },
+  {
+    "word": "dramatic",
+    "meaning_zh": "adj. 戏剧性的；巨大的；显著的",
+    "phonetic": "/drəˈmætɪk/",
+    "example": "There has been a dramatic increase in online sales since the pandemic."
+  },
+  {
+    "word": "duration",
+    "meaning_zh": "n. 持续时间；期间",
+    "phonetic": "/djuˈreɪʃn/",
+    "example": "The duration of the course is approximately three months."
+  },
+  {
+    "word": "dynamic",
+    "meaning_zh": "adj. 动态的；有活力的；n. 动力",
+    "phonetic": "/daɪˈnæmɪk/",
+    "example": "The job market is constantly changing and highly dynamic."
+  },
+  {
+    "word": "economy",
+    "meaning_zh": "n. 经济；节约",
+    "phonetic": "/ɪˈkɒnəmi/",
+    "example": "The economy is showing strong signs of recovery after the recession."
+  },
+  {
+    "word": "edit",
+    "meaning_zh": "v. 编辑；剪辑；修改",
+    "phonetic": "/ˈedɪt/",
+    "example": "She spent the whole weekend editing her research paper."
+  },
+  {
+    "word": "effect",
+    "meaning_zh": "n. 效果；影响；作用；v. 实现",
+    "phonetic": "/ɪˈfekt/",
+    "example": "The new law will have a significant effect on small businesses."
+  },
+  {
+    "word": "efficient",
+    "meaning_zh": "adj. 高效的；有效率的；能干的",
+    "phonetic": "/ɪˈfɪʃnt/",
+    "example": "The new system is far more efficient than the old one."
+  },
+  {
+    "word": "elaborate",
+    "meaning_zh": "adj. 精心制作的；复杂的；v. 详细阐述",
+    "phonetic": "/ɪˈlæbərət/",
+    "example": "Could you please elaborate on your proposal in more detail?"
+  },
+  {
+    "word": "eliminate",
+    "meaning_zh": "v. 消除；淘汰；消灭",
+    "phonetic": "/ɪˈlɪmɪneɪt/",
+    "example": "The government aims to eliminate poverty by the year 2030."
+  },
+  {
+    "word": "emerge",
+    "meaning_zh": "v. 出现；浮现；新兴",
+    "phonetic": "/ɪˈmɜːdʒ/",
+    "example": "New technologies are emerging at an unprecedented rate."
+  },
+  {
+    "word": "emission",
+    "meaning_zh": "n. 排放；散发；发射",
+    "phonetic": "/ɪˈmɪʃn/",
+    "example": "Carbon emissions need to be reduced to combat climate change."
+  },
+  {
+    "word": "emotion",
+    "meaning_zh": "n. 情感；情绪；感情",
+    "phonetic": "/ɪˈməʊʃn/",
+    "example": "The film evoked strong emotions in the audience."
+  },
+  {
+    "word": "emphasis",
+    "meaning_zh": "n. 强调；重点；重要性",
+    "phonetic": "/ˈemfəsɪs/",
+    "example": "The school places great emphasis on academic achievement."
+  },
+  {
+    "word": "employ",
+    "meaning_zh": "v. 雇用；使用；利用",
+    "phonetic": "/ɪmˈplɔɪ/",
+    "example": "The company employs over two thousand people worldwide."
+  },
+  {
+    "word": "enable",
+    "meaning_zh": "v. 使能够；启用；授权",
+    "phonetic": "/ɪˈneɪbl/",
+    "example": "Technology enables us to communicate instantly across the globe."
+  },
+  {
+    "word": "encounter",
+    "meaning_zh": "v. 遭遇；遇到；n. 邂逅",
+    "phonetic": "/ɪnˈkaʊntə/",
+    "example": "She encountered many difficulties during the research project."
+  },
+  {
+    "word": "encourage",
+    "meaning_zh": "v. 鼓励；促进；激励",
+    "phonetic": "/ɪnˈkʌrɪdʒ/",
+    "example": "Good teachers always encourage their students to ask questions."
+  },
+  {
+    "word": "engage",
+    "meaning_zh": "v. 参与；吸引；从事；雇用",
+    "phonetic": "/ɪnˈɡeɪdʒ/",
+    "example": "The course engages students through interactive group activities."
+  },
+  {
+    "word": "enormous",
+    "meaning_zh": "adj. 巨大的；庞大的",
+    "phonetic": "/ɪˈnɔːməs/",
+    "example": "The project required an enormous amount of time and resources."
+  },
+  {
+    "word": "ensure",
+    "meaning_zh": "v. 确保；保证；担保",
+    "phonetic": "/ɪnˈʃʊə/",
+    "example": "Please ensure that all windows are locked before leaving the building."
+  },
+  {
+    "word": "enterprise",
+    "meaning_zh": "n. 企业；事业；进取心",
+    "phonetic": "/ˈentəpraɪz/",
+    "example": "Small and medium-sized enterprises play a vital role in the economy."
+  },
+  {
+    "word": "enthusiasm",
+    "meaning_zh": "n. 热情；热心；热忱",
+    "phonetic": "/ɪnˈθjuːziæzəm/",
+    "example": "Her enthusiasm for teaching inspired her students greatly."
+  },
+  {
+    "word": "entitle",
+    "meaning_zh": "v. 给……权利；给……命名",
+    "phonetic": "/ɪnˈtaɪtl/",
+    "example": "Employees are entitled to paid leave after working for one year."
+  },
+  {
+    "word": "environment",
+    "meaning_zh": "n. 环境；周围；条件",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "example": "We must protect the natural environment for future generations."
+  },
+  {
+    "word": "equip",
+    "meaning_zh": "v. 装备；配备；使有能力",
+    "phonetic": "/ɪˈkwɪp/",
+    "example": "The laboratory is equipped with state-of-the-art instruments."
+  },
+  {
+    "word": "equivalent",
+    "meaning_zh": "adj. 等价的；相等的；n. 等价物",
+    "phonetic": "/ɪˈkwɪvələnt/",
+    "example": "A bachelor's degree is equivalent to four years of university study."
+  },
+  {
+    "word": "essential",
+    "meaning_zh": "adj. 必要的；本质的；n. 必需品",
+    "phonetic": "/ɪˈsenʃl/",
+    "example": "Water is essential for all forms of life on Earth."
+  },
+  {
+    "word": "establish",
+    "meaning_zh": "v. 建立；设立；确立",
+    "phonetic": "/ɪˈstæblɪʃ/",
+    "example": "The company was established in 1990 and has grown steadily since then."
+  },
+  {
+    "word": "estimate",
+    "meaning_zh": "v. 估计；估算；n. 估价",
+    "phonetic": "/ˈestɪmeɪt/",
+    "example": "It is estimated that over one billion people live in poverty worldwide."
+  },
+  {
+    "word": "evaluate",
+    "meaning_zh": "v. 评估；评价；估值",
+    "phonetic": "/ɪˈvæljueɪt/",
+    "example": "The project will be thoroughly evaluated at the end of each phase."
+  },
+  {
+    "word": "evidence",
+    "meaning_zh": "n. 证据；迹象；证明",
+    "phonetic": "/ˈevɪdəns/",
+    "example": "There is strong evidence linking smoking to various types of cancer."
+  },
+  {
+    "word": "evolve",
+    "meaning_zh": "v. 进化；演变；逐步发展",
+    "phonetic": "/ɪˈvɒlv/",
+    "example": "Species evolve over time in response to changes in their environment."
+  },
+  {
+    "word": "examine",
+    "meaning_zh": "v. 检查；审查；考试",
+    "phonetic": "/ɪɡˈzæmɪn/",
+    "example": "The doctor examined the patient thoroughly before making a diagnosis."
+  },
+  {
+    "word": "exceed",
+    "meaning_zh": "v. 超过；超越；胜过",
+    "phonetic": "/ɪkˈsiːd/",
+    "example": "The total cost of the project should not exceed one million dollars."
+  },
+  {
+    "word": "exception",
+    "meaning_zh": "n. 例外；除外",
+    "phonetic": "/ɪkˈsepʃn/",
+    "example": "Most students passed the exam, with only a few exceptions."
+  },
+  {
+    "word": "exchange",
+    "meaning_zh": "v. 交换；兑换；交流；n. 交流",
+    "phonetic": "/ɪksˈtʃeɪndʒ/",
+    "example": "Students have the opportunity to take part in a cultural exchange programme."
+  },
+  {
+    "word": "exclude",
+    "meaning_zh": "v. 排除；排斥；拒绝",
+    "phonetic": "/ɪkˈskluːd/",
+    "example": "The prices quoted exclude taxes and delivery charges."
+  },
+  {
+    "word": "exercise",
+    "meaning_zh": "n. 锻炼；练习；v. 锻炼；行使",
+    "phonetic": "/ˈeksəsaɪz/",
+    "example": "Regular exercise is essential for maintaining good physical and mental health."
+  },
+  {
+    "word": "exhibit",
+    "meaning_zh": "v. 展览；展示；n. 展品；展览",
+    "phonetic": "/ɪɡˈzɪbɪt/",
+    "example": "The artist will exhibit her latest paintings at the gallery next month."
+  },
+  {
+    "word": "expand",
+    "meaning_zh": "v. 扩大；扩展；膨胀",
+    "phonetic": "/ɪkˈspænd/",
+    "example": "The company plans to expand its operations into Asian markets."
+  },
+  {
+    "word": "expense",
+    "meaning_zh": "n. 费用；开支；代价",
+    "phonetic": "/ɪkˈspens/",
+    "example": "All travel expenses will be reimbursed by the employer."
+  },
+  {
+    "word": "experiment",
+    "meaning_zh": "n. 实验；试验；v. 做实验",
+    "phonetic": "/ɪkˈsperɪmənt/",
+    "example": "The experiment produced some unexpected but interesting results."
+  },
+  {
+    "word": "expert",
+    "meaning_zh": "n. 专家；能手；adj. 专业的",
+    "phonetic": "/ˈekspɜːt/",
+    "example": "She is widely regarded as an expert in the field of molecular biology."
+  },
+  {
+    "word": "exploit",
+    "meaning_zh": "v. 利用；开发；剥削",
+    "phonetic": "/ɪkˈsplɔɪt/",
+    "example": "Companies should not exploit natural resources without considering the consequences."
+  },
+  {
+    "word": "explore",
+    "meaning_zh": "v. 探索；探讨；考察",
+    "phonetic": "/ɪkˈsplɔː/",
+    "example": "We need to explore all possible solutions before making a decision."
+  },
+  {
+    "word": "export",
+    "meaning_zh": "v. 出口；输出；n. 出口产品",
+    "phonetic": "/ɪkˈspɔːt/",
+    "example": "The country exports large quantities of oil and natural gas."
+  },
+  {
+    "word": "expose",
+    "meaning_zh": "v. 暴露；揭露；使接触",
+    "phonetic": "/ɪkˈspəʊz/",
+    "example": "The documentary exposed the truth about the political scandal."
+  },
+  {
+    "word": "extend",
+    "meaning_zh": "v. 延长；扩展；提供",
+    "phonetic": "/ɪkˈstend/",
+    "example": "We decided to extend our stay in Paris by an extra two days."
+  },
+  {
+    "word": "extensive",
+    "meaning_zh": "adj. 广泛的；大量的；广阔的",
+    "phonetic": "/ɪkˈstensɪv/",
+    "example": "The old house requires extensive repairs before it can be lived in."
+  },
+  {
+    "word": "external",
+    "meaning_zh": "adj. 外部的；对外的；外来的",
+    "phonetic": "/ɪkˈstɜːnl/",
+    "example": "The company hired an external consultant to review its operations."
+  },
+  {
+    "word": "extract",
+    "meaning_zh": "v. 提取；摘录；拔出；n. 提取物",
+    "phonetic": "/ɪkˈstrækt/",
+    "example": "The machine is used to extract oil from seeds."
+  },
+  {
+    "word": "extreme",
+    "meaning_zh": "adj. 极端的；极度的；n. 极端",
+    "phonetic": "/ɪkˈstriːm/",
+    "example": "The region is experiencing extreme weather conditions due to climate change."
+  },
+  {
+    "word": "facility",
+    "meaning_zh": "n. 设施；设备；便利",
+    "phonetic": "/fəˈsɪləti/",
+    "example": "The sports facility includes a swimming pool and a gymnasium."
+  },
+  {
+    "word": "factor",
+    "meaning_zh": "n. 因素；要素；系数",
+    "phonetic": "/ˈfæktə/",
+    "example": "Cost is an important factor that needs to be considered in the decision."
+  },
+  {
+    "word": "faculty",
+    "meaning_zh": "n. 能力；全体教员；系",
+    "phonetic": "/ˈfæklti/",
+    "example": "She is a member of the faculty at the University of Oxford."
+  },
+  {
+    "word": "federal",
+    "meaning_zh": "adj. 联邦的；同盟的",
+    "phonetic": "/ˈfedərəl/",
+    "example": "The federal government is responsible for national defence and foreign policy."
+  },
+  {
+    "word": "feedback",
+    "meaning_zh": "n. 反馈；回复",
+    "phonetic": "/ˈfiːdbæk/",
+    "example": "We welcome feedback from our customers to help improve our services."
+  },
+  {
+    "word": "figure",
+    "meaning_zh": "n. 数字；人物；图形；v. 认为",
+    "phonetic": "/ˈfɪɡə/",
+    "example": "The latest figures show that unemployment has fallen significantly."
+  },
+  {
+    "word": "finance",
+    "meaning_zh": "n. 金融；财务；v. 提供资金",
+    "phonetic": "/ˈfaɪnæns/",
+    "example": "He works in the finance department of a large international bank."
+  },
+  {
+    "word": "finite",
+    "meaning_zh": "adj. 有限的；限定的",
+    "phonetic": "/ˈfaɪnaɪt/",
+    "example": "The Earth's natural resources are finite and must be used wisely."
+  },
+  {
+    "word": "flexible",
+    "meaning_zh": "adj. 灵活的；可变通的；柔韧的",
+    "phonetic": "/ˈfleksəbl/",
+    "example": "The company offers flexible working hours to accommodate employees' needs."
+  },
+  {
+    "word": "flow",
+    "meaning_zh": "v. 流动；流通；n. 流动；流量",
+    "phonetic": "/fləʊ/",
+    "example": "The river flows through several towns before reaching the sea."
+  },
+  {
+    "word": "fluctuate",
+    "meaning_zh": "v. 波动；浮动；起伏",
+    "phonetic": "/ˈflʌktʃueɪt/",
+    "example": "Stock prices fluctuate constantly in response to market conditions."
+  },
+  {
+    "word": "forecast",
+    "meaning_zh": "v. 预测；预报；n. 预测",
+    "phonetic": "/ˈfɔːkɑːst/",
+    "example": "The weather forecast predicts heavy rain for the weekend."
+  },
+  {
+    "word": "foundation",
+    "meaning_zh": "n. 基础；基金会；建立",
+    "phonetic": "/faʊnˈdeɪʃn/",
+    "example": "A good education provides a solid foundation for a successful career."
+  },
+  {
+    "word": "fragment",
+    "meaning_zh": "n. 碎片；片段；v. 破碎",
+    "phonetic": "/ˈfræɡmənt/",
+    "example": "Archaeologists found fragments of pottery dating back thousands of years."
+  },
+  {
+    "word": "framework",
+    "meaning_zh": "n. 框架；结构；体系",
+    "phonetic": "/ˈfreɪmwɜːk/",
+    "example": "The agreement provides a legal framework for international cooperation."
+  },
+  {
+    "word": "frequency",
+    "meaning_zh": "n. 频率；频繁",
+    "phonetic": "/ˈfriːkwənsi/",
+    "example": "The frequency of natural disasters has increased in recent years."
+  },
+  {
+    "word": "frequent",
+    "meaning_zh": "adj. 频繁的；经常的",
+    "phonetic": "/ˈfriːkwənt/",
+    "example": "There are frequent flights between London and Paris."
+  },
+  {
+    "word": "function",
+    "meaning_zh": "n. 功能；作用；函数；v. 运行",
+    "phonetic": "/ˈfʌŋkʃn/",
+    "example": "The main function of the heart is to pump blood throughout the body."
+  },
+  {
+    "word": "fund",
+    "meaning_zh": "n. 基金；资金；v. 资助",
+    "phonetic": "/fʌnd/",
+    "example": "The research project is funded by the government."
+  },
+  {
+    "word": "fundamental",
+    "meaning_zh": "adj. 基本的；根本的；n. 基本原理",
+    "phonetic": "/ˌfʌndəˈmentl/",
+    "example": "Reading and writing are fundamental skills that every child must learn."
+  },
+  {
+    "word": "furthermore",
+    "meaning_zh": "adv. 此外；而且；再者",
+    "phonetic": "/ˌfɜːðəˈmɔː/",
+    "example": "The house is too expensive. Furthermore, it is located in a noisy area."
+  },
+  {
+    "word": "generate",
+    "meaning_zh": "v. 产生；生成；发电",
+    "phonetic": "/ˈdʒenəreɪt/",
+    "example": "The wind turbines generate enough electricity to power the entire town."
+  },
+  {
+    "word": "generous",
+    "meaning_zh": "adj. 慷慨的；大方的；丰富的",
+    "phonetic": "/ˈdʒenərəs/",
+    "example": "The billionaire made a generous donation to the university."
+  },
+  {
+    "word": "genuine",
+    "meaning_zh": "adj. 真正的；真诚的；真实的",
+    "phonetic": "/ˈdʒenjuɪn/",
+    "example": "She showed genuine concern for the well-being of her students."
+  },
+  {
+    "word": "global",
+    "meaning_zh": "adj. 全球的；整体的；全面的",
+    "phonetic": "/ˈɡləʊbl/",
+    "example": "Global warming is one of the most serious challenges facing humanity."
+  },
+  {
+    "word": "gradual",
+    "meaning_zh": "adj. 逐渐的；渐进的",
+    "phonetic": "/ˈɡrædʒuəl/",
+    "example": "There has been a gradual improvement in the country's economic conditions."
+  },
+  {
+    "word": "grant",
+    "meaning_zh": "v. 授予；同意；n. 补助金",
+    "phonetic": "/ɡrɑːnt/",
+    "example": "The government granted funding for the new research centre."
+  },
+  {
+    "word": "guarantee",
+    "meaning_zh": "v. 保证；担保；n. 保证书",
+    "phonetic": "/ˌɡærənˈtiː/",
+    "example": "The product comes with a money-back guarantee if you are not satisfied."
+  },
+  {
+    "word": "harmony",
+    "meaning_zh": "n. 和谐；协调；融洽",
+    "phonetic": "/ˈhɑːməni/",
+    "example": "The two communities have lived together in peace and harmony for centuries."
+  },
+  {
+    "word": "harsh",
+    "meaning_zh": "adj. 严厉的；严酷的；刺耳的",
+    "phonetic": "/hɑːʃ/",
+    "example": "The country has a harsh climate with very cold winters and hot summers."
+  },
+  {
+    "word": "hesitate",
+    "meaning_zh": "v. 犹豫；迟疑；顾虑",
+    "phonetic": "/ˈhezɪteɪt/",
+    "example": "Please do not hesitate to contact us if you have any further questions."
+  },
+  {
+    "word": "highlight",
+    "meaning_zh": "v. 强调；突出；n. 亮点",
+    "phonetic": "/ˈhaɪlaɪt/",
+    "example": "The report highlights the urgent need for educational reform."
+  },
+  {
+    "word": "hypothesis",
+    "meaning_zh": "n. 假设；假说；前提",
+    "phonetic": "/haɪˈpɒθəsɪs/",
+    "example": "The scientist tested her hypothesis through a series of experiments."
+  },
+  {
+    "word": "identical",
+    "meaning_zh": "adj. 相同的；一致的；同一的",
+    "phonetic": "/aɪˈdentɪkl/",
+    "example": "The two houses look almost identical from the outside."
+  },
+  {
+    "word": "identify",
+    "meaning_zh": "v. 识别；确认；认同",
+    "phonetic": "/aɪˈdentɪfaɪ/",
+    "example": "Can you identify the main causes of the problem?"
+  },
+  {
+    "word": "ignorant",
+    "meaning_zh": "adj. 无知的；不了解的",
+    "phonetic": "/ˈɪɡnərənt/",
+    "example": "Many people are ignorant of the dangers of climate change."
+  },
+  {
+    "word": "illustrate",
+    "meaning_zh": "v. 说明；阐明；加插图",
+    "phonetic": "/ˈɪləstreɪt/",
+    "example": "The diagram illustrates the process of photosynthesis."
+  },
+  {
+    "word": "image",
+    "meaning_zh": "n. 图像；形象；印象",
+    "phonetic": "/ˈɪmɪdʒ/",
+    "example": "The company is trying to improve its public image."
+  },
+  {
+    "word": "imagination",
+    "meaning_zh": "n. 想象力；创造力；空想",
+    "phonetic": "/ɪˌmædʒɪˈneɪʃn/",
+    "example": "Children have very vivid imaginations and love creative play."
+  },
+  {
+    "word": "immediate",
+    "meaning_zh": "adj. 立即的；直接的；邻近的",
+    "phonetic": "/ɪˈmiːdiət/",
+    "example": "The government took immediate action to address the crisis."
+  },
+  {
+    "word": "immigrant",
+    "meaning_zh": "n. 移民；侨民",
+    "phonetic": "/ˈɪmɪɡrənt/",
+    "example": "The country has a long history of welcoming immigrants from all over the world."
+  },
+  {
+    "word": "impact",
+    "meaning_zh": "n. 影响；冲击力；v. 影响",
+    "phonetic": "/ˈɪmpækt/",
+    "example": "The internet has had a profound impact on the way we communicate."
+  },
+  {
+    "word": "implement",
+    "meaning_zh": "v. 实施；执行；落实",
+    "phonetic": "/ˈɪmplɪment/",
+    "example": "The new policy will be implemented at the beginning of the new year."
+  },
+  {
+    "word": "implication",
+    "meaning_zh": "n. 含义；暗示；影响",
+    "phonetic": "/ˌɪmplɪˈkeɪʃn/",
+    "example": "What are the implications of this decision for future generations?"
+  },
+  {
+    "word": "impose",
+    "meaning_zh": "v. 强加；征收；推行",
+    "phonetic": "/ɪmˈpəʊz/",
+    "example": "The government imposed new taxes on imported luxury goods."
+  },
+  {
+    "word": "impress",
+    "meaning_zh": "v. 给……留下印象；使钦佩",
+    "phonetic": "/ɪmˈpres/",
+    "example": "She impressed the interviewers with her extensive knowledge and experience."
+  },
+  {
+    "word": "incentive",
+    "meaning_zh": "n. 激励；动机；刺激",
+    "phonetic": "/ɪnˈsentɪv/",
+    "example": "Financial incentives can be effective in boosting employee performance."
+  },
+  {
+    "word": "incident",
+    "meaning_zh": "n. 事件；事故；事变",
+    "phonetic": "/ˈɪnsɪdənt/",
+    "example": "The incident was reported to the police and an investigation is underway."
+  },
+  {
+    "word": "incorporate",
+    "meaning_zh": "v. 包含；合并；纳入",
+    "phonetic": "/ɪnˈkɔːpəreɪt/",
+    "example": "The new design incorporates many innovative features."
+  },
+  {
+    "word": "incredible",
+    "meaning_zh": "adj. 难以置信的；极好的",
+    "phonetic": "/ɪnˈkredəbl/",
+    "example": "It is incredible how much technology has advanced in the past decade."
+  },
+  {
+    "word": "independent",
+    "meaning_zh": "adj. 独立的；自主的；无偏的",
+    "phonetic": "/ˌɪndɪˈpendənt/",
+    "example": "She is a very independent person who likes to make her own decisions."
+  },
+  {
+    "word": "indicate",
+    "meaning_zh": "v. 表明；指示；暗示",
+    "phonetic": "/ˈɪndɪkeɪt/",
+    "example": "The latest research indicates that the treatment is highly effective."
+  },
+  {
+    "word": "individual",
+    "meaning_zh": "adj. 个人的；个别的；n. 个人",
+    "phonetic": "/ˌɪndɪˈvɪdʒuəl/",
+    "example": "Each individual has their own unique strengths and weaknesses."
+  },
+  {
+    "word": "inevitable",
+    "meaning_zh": "adj. 不可避免的；必然的",
+    "phonetic": "/ɪnˈevɪtəbl/",
+    "example": "Change is inevitable in any growing organization."
+  },
+  {
+    "word": "infer",
+    "meaning_zh": "v. 推断；推论；暗示",
+    "phonetic": "/ɪnˈfɜː/",
+    "example": "From the evidence, we can infer that the suspect was at the scene."
+  },
+  {
+    "word": "inflation",
+    "meaning_zh": "n. 通货膨胀；物价上涨",
+    "phonetic": "/ɪnˈfleɪʃn/",
+    "example": "The central bank is trying to keep inflation under control."
+  },
+  {
+    "word": "influence",
+    "meaning_zh": "n. 影响；势力；v. 影响",
+    "phonetic": "/ˈɪnfluəns/",
+    "example": "Social media has a powerful influence on young people's opinions."
+  },
+  {
+    "word": "inform",
+    "meaning_zh": "v. 通知；告知；了解",
+    "phonetic": "/ɪnˈfɔːm/",
+    "example": "Please inform all staff members about the changes to the schedule."
+  },
+  {
+    "word": "inhabitant",
+    "meaning_zh": "n. 居民；居住者",
+    "phonetic": "/ɪnˈhæbɪtənt/",
+    "example": "The island has approximately ten thousand inhabitants."
+  },
+  {
+    "word": "initial",
+    "meaning_zh": "adj. 最初的；开始的；n. 首字母",
+    "phonetic": "/ɪˈnɪʃl/",
+    "example": "The initial results of the experiment were very promising."
+  },
+  {
+    "word": "initiative",
+    "meaning_zh": "n. 倡议；主动性；积极性",
+    "phonetic": "/ɪˈnɪʃətɪv/",
+    "example": "She showed great initiative by starting the community project herself."
+  },
+  {
+    "word": "innovation",
+    "meaning_zh": "n. 创新；革新；新事物",
+    "phonetic": "/ˌɪnəˈveɪʃn/",
+    "example": "Technological innovation is driving economic growth in many countries."
+  },
+  {
+    "word": "input",
+    "meaning_zh": "n. 输入；投入；v. 输入",
+    "phonetic": "/ˈɪnpʊt/",
+    "example": "We value input from all team members during the planning phase."
+  },
+  {
+    "word": "inquiry",
+    "meaning_zh": "n. 询问；调查；查问",
+    "phonetic": "/ɪnˈkwaɪəri/",
+    "example": "The committee launched an inquiry into the causes of the accident."
+  },
+  {
+    "word": "inspect",
+    "meaning_zh": "v. 检查；审视；检阅",
+    "phonetic": "/ɪnˈspekt/",
+    "example": "The building was thoroughly inspected for safety hazards."
+  },
+  {
+    "word": "inspiration",
+    "meaning_zh": "n. 灵感；鼓舞人心的人或事",
+    "phonetic": "/ˌɪnspəˈreɪʃn/",
+    "example": "She drew inspiration from nature when creating her paintings."
+  },
+  {
+    "word": "institute",
+    "meaning_zh": "n. 研究所；学院；v. 建立",
+    "phonetic": "/ˈɪnstɪtjuːt/",
+    "example": "She works at a leading research institute in London."
+  },
+  {
+    "word": "instrument",
+    "meaning_zh": "n. 工具；乐器；仪器",
+    "phonetic": "/ˈɪnstrəmənt/",
+    "example": "The piano is one of the most popular musical instruments in the world."
+  },
+  {
+    "word": "insurance",
+    "meaning_zh": "n. 保险；保障",
+    "phonetic": "/ɪnˈʃʊərəns/",
+    "example": "It is advisable to take out travel insurance before going abroad."
+  },
+  {
+    "word": "integrate",
+    "meaning_zh": "v. 整合；融合；使结合",
+    "phonetic": "/ˈɪntɪɡreɪt/",
+    "example": "The new software integrates all the company's data systems."
+  },
+  {
+    "word": "intellectual",
+    "meaning_zh": "adj. 智力的；知识的；n. 知识分子",
+    "phonetic": "/ˌɪntəˈlektʃuəl/",
+    "example": "She comes from a highly intellectual family of academics and writers."
+  },
+  {
+    "word": "intelligent",
+    "meaning_zh": "adj. 聪明的；智慧的；智能的",
+    "phonetic": "/ɪnˈtelɪdʒənt/",
+    "example": "Dolphins are considered to be highly intelligent animals."
+  },
+  {
+    "word": "intense",
+    "meaning_zh": "adj. 强烈的；紧张的；剧烈的",
+    "phonetic": "/ɪnˈtens/",
+    "example": "The training programme was physically intense but very rewarding."
+  },
+  {
+    "word": "interact",
+    "meaning_zh": "v. 互动；相互作用；交流",
+    "phonetic": "/ˌɪntərˈækt/",
+    "example": "The teacher encouraged students to interact with each other in group discussions."
+  },
+  {
+    "word": "interpret",
+    "meaning_zh": "v. 解释；口译；理解",
+    "phonetic": "/ɪnˈtɜːprɪt/",
+    "example": "How do you interpret the findings of this research study?"
+  },
+  {
+    "word": "interval",
+    "meaning_zh": "n. 间隔；间歇；休息时间",
+    "phonetic": "/ˈɪntəvl/",
+    "example": "There is a short interval between the two acts of the play."
+  },
+  {
+    "word": "intervention",
+    "meaning_zh": "n. 干预；介入；调停",
+    "phonetic": "/ˌɪntəˈvenʃn/",
+    "example": "Early intervention can prevent the problem from getting worse."
+  },
+  {
+    "word": "investigate",
+    "meaning_zh": "v. 调查；研究；审查",
+    "phonetic": "/ɪnˈvestɪɡeɪt/",
+    "example": "The police are investigating the circumstances surrounding the accident."
+  },
+  {
+    "word": "investment",
+    "meaning_zh": "n. 投资；投入",
+    "phonetic": "/ɪnˈvestmənt/",
+    "example": "Education is an investment in the future of our children."
+  },
+  {
+    "word": "involve",
+    "meaning_zh": "v. 涉及；包含；参与",
+    "phonetic": "/ɪnˈvɒlv/",
+    "example": "The research project involves collaboration between several universities."
+  },
+  {
+    "word": "isolate",
+    "meaning_zh": "v. 隔离；孤立；分离",
+    "phonetic": "/ˈaɪsəleɪt/",
+    "example": "The patient was isolated to prevent the spread of the infection."
+  },
+  {
+    "word": "issue",
+    "meaning_zh": "n. 问题；议题；v. 发布",
+    "phonetic": "/ˈɪʃuː/",
+    "example": "Climate change is one of the most important issues of our time."
+  },
+  {
+    "word": "journal",
+    "meaning_zh": "n. 期刊；日记；日志",
+    "phonetic": "/ˈdʒɜːnl/",
+    "example": "She publishes her research findings in reputable scientific journals."
+  },
+  {
+    "word": "judgement",
+    "meaning_zh": "n. 判断；判决；评价",
+    "phonetic": "/ˈdʒʌdʒmənt/",
+    "example": "It takes time and experience to develop good professional judgement."
+  },
+  {
+    "word": "justify",
+    "meaning_zh": "v. 证明……有理；为……辩护",
+    "phonetic": "/ˈdʒʌstɪfaɪ/",
+    "example": "How can you justify spending so much money on unnecessary items?"
+  },
+  {
+    "word": "laboratory",
+    "meaning_zh": "n. 实验室；研究室",
+    "phonetic": "/ləˈbɒrətri/",
+    "example": "The laboratory is equipped with the latest scientific instruments."
+  },
+  {
+    "word": "launch",
+    "meaning_zh": "v. 发射；发起；推出；n. 发射",
+    "phonetic": "/lɔːntʃ/",
+    "example": "The company plans to launch its new product in March."
+  },
+  {
+    "word": "legislation",
+    "meaning_zh": "n. 立法；法规；法律",
+    "phonetic": "/ˌledʒɪsˈleɪʃn/",
+    "example": "The government introduced new legislation to protect the environment."
+  },
+  {
+    "word": "legitimate",
+    "meaning_zh": "adj. 合法的；正当的；合理的",
+    "phonetic": "/lɪˈdʒɪtɪmət/",
+    "example": "Is this a legitimate reason for missing the deadline?"
+  },
+  {
+    "word": "liability",
+    "meaning_zh": "n. 责任；负债；不利条件",
+    "phonetic": "/ˌlaɪəˈbɪləti/",
+    "example": "The company has limited liability, meaning shareholders are not personally responsible."
+  },
+  {
+    "word": "liberal",
+    "meaning_zh": "adj. 自由的；开放的；n. 自由派",
+    "phonetic": "/ˈlɪbərəl/",
+    "example": "She holds liberal views on social and political issues."
+  },
+  {
+    "word": "likewise",
+    "meaning_zh": "adv. 同样地；也；而且",
+    "phonetic": "/ˈlaɪkwaɪz/",
+    "example": "I enjoyed the meal and my sister felt likewise."
+  },
+  {
+    "word": "limit",
+    "meaning_zh": "n. 限制；界限；v. 限制",
+    "phonetic": "/ˈlɪmɪt/",
+    "example": "There is a limit to the amount of time we can spend on this project."
+  },
+  {
+    "word": "linguistic",
+    "meaning_zh": "adj. 语言的；语言学的",
+    "phonetic": "/lɪŋˈɡwɪstɪk/",
+    "example": "She has a degree in linguistic studies from the University of Cambridge."
+  },
+  {
+    "word": "literacy",
+    "meaning_zh": "n. 读写能力；文化素养",
+    "phonetic": "/ˈlɪtərəsi/",
+    "example": "The government is working to improve literacy rates in rural areas."
+  },
+  {
+    "word": "literature",
+    "meaning_zh": "n. 文学；文献；文学作品",
+    "phonetic": "/ˈlɪtrətʃə/",
+    "example": "She studied English literature at university."
+  },
+  {
+    "word": "locate",
+    "meaning_zh": "v. 位于；找到；定位",
+    "phonetic": "/ləʊˈkeɪt/",
+    "example": "The company decided to locate its headquarters in Singapore."
+  },
+  {
+    "word": "logical",
+    "meaning_zh": "adj. 符合逻辑的；合理的",
+    "phonetic": "/ˈlɒdʒɪkl/",
+    "example": "It is a logical conclusion based on the available evidence."
+  },
+  {
+    "word": "maintain",
+    "meaning_zh": "v. 维持；保持；保养；主张",
+    "phonetic": "/meɪnˈteɪn/",
+    "example": "It is important to maintain a healthy work-life balance."
+  },
+  {
+    "word": "major",
+    "meaning_zh": "adj. 主要的；重要的；n. 主修科目",
+    "phonetic": "/ˈmeɪdʒə/",
+    "example": "The major concern of local residents is the safety of the neighbourhood."
+  },
+  {
+    "word": "manipulate",
+    "meaning_zh": "v. 操纵；控制；操作",
+    "phonetic": "/məˈnɪpjʊleɪt/",
+    "example": "The data was manipulated to support a particular argument."
+  },
+  {
+    "word": "manufacture",
+    "meaning_zh": "v. 制造；生产；n. 制造",
+    "phonetic": "/ˌmænjʊˈfæktʃə/",
+    "example": "The company manufactures automotive parts for many well-known brands."
+  },
+  {
+    "word": "margin",
+    "meaning_zh": "n. 边缘；余地；利润幅度",
+    "phonetic": "/ˈmɑːdʒɪn/",
+    "example": "The company operates on very thin profit margins."
+  },
+  {
+    "word": "massive",
+    "meaning_zh": "adj. 大量的；大规模的；巨大的",
+    "phonetic": "/ˈmæsɪv/",
+    "example": "The earthquake caused massive damage to buildings and infrastructure."
+  },
+  {
+    "word": "material",
+    "meaning_zh": "n. 材料；素材；adj. 物质的",
+    "phonetic": "/məˈtɪəriəl/",
+    "example": "The architect selected high-quality materials for the construction project."
+  },
+  {
+    "word": "mature",
+    "meaning_zh": "adj. 成熟的；v. 成熟",
+    "phonetic": "/məˈtʃʊə/",
+    "example": "She has a very mature attitude towards handling difficult situations."
+  },
+  {
+    "word": "maximum",
+    "meaning_zh": "adj. 最大的；最高的；n. 最大值",
+    "phonetic": "/ˈmæksɪməm/",
+    "example": "The maximum speed limit on this road is seventy miles per hour."
+  },
+  {
+    "word": "mechanism",
+    "meaning_zh": "n. 机制；机械装置；机理",
+    "phonetic": "/ˈmekənɪzəm/",
+    "example": "The mechanism of action of this drug is not fully understood."
+  },
+  {
+    "word": "media",
+    "meaning_zh": "n. 媒体；传媒；媒介",
+    "phonetic": "/ˈmiːdiə/",
+    "example": "The media plays an important role in shaping public opinion."
+  },
+  {
+    "word": "medium",
+    "meaning_zh": "adj. 中等的；n. 媒介；手段",
+    "phonetic": "/ˈmiːdiəm/",
+    "example": "Social media has become a powerful communication medium."
+  },
+  {
+    "word": "mental",
+    "meaning_zh": "adj. 精神的；心理的；智力的",
+    "phonetic": "/ˈmentl/",
+    "example": "Mental health is just as important as physical health."
+  },
+  {
+    "word": "mention",
+    "meaning_zh": "v. 提到；说起；n. 提及",
+    "phonetic": "/ˈmenʃn/",
+    "example": "She mentioned that she would be arriving late for the meeting."
+  },
+  {
+    "word": "method",
+    "meaning_zh": "n. 方法；办法；条理",
+    "phonetic": "/ˈmeθəd/",
+    "example": "This teaching method has been proven to be very effective."
+  },
+  {
+    "word": "migrate",
+    "meaning_zh": "v. 迁移；移居；迁徙",
+    "phonetic": "/maɪˈɡreɪt/",
+    "example": "Many birds migrate to warmer countries during the winter months."
+  },
+  {
+    "word": "military",
+    "meaning_zh": "n. 军队；adj. 军事的；军用的",
+    "phonetic": "/ˈmɪlətri/",
+    "example": "He served in the military for over a decade."
+  },
+  {
+    "word": "minimum",
+    "meaning_zh": "n. 最小值；adj. 最小的；最低的",
+    "phonetic": "/ˈmɪnɪməm/",
+    "example": "The minimum age required for this job is eighteen years old."
+  },
+  {
+    "word": "minor",
+    "meaning_zh": "adj. 次要的；较小的；n. 未成年人",
+    "phonetic": "/ˈmaɪnə/",
+    "example": "The driver suffered only minor injuries in the accident."
+  },
+  {
+    "word": "modify",
+    "meaning_zh": "v. 修改；调整；修饰",
+    "phonetic": "/ˈmɒdɪfaɪ/",
+    "example": "The design was modified to make it more cost-effective."
+  },
+  {
+    "word": "monitor",
+    "meaning_zh": "v. 监控；监视；n. 班长；监视器",
+    "phonetic": "/ˈmɒnɪtə/",
+    "example": "Doctors continuously monitor patients' vital signs after surgery."
+  },
+  {
+    "word": "motivate",
+    "meaning_zh": "v. 激发；促使；成为……的动机",
+    "phonetic": "/ˈməʊtɪveɪt/",
+    "example": "A good teacher knows how to motivate students to achieve their best."
+  },
+  {
+    "word": "narrow",
+    "meaning_zh": "adj. 狭窄的；v. 缩小；使变窄",
+    "phonetic": "/ˈnærəʊ/",
+    "example": "The gap between the rich and the poor continues to narrow."
+  },
+  {
+    "word": "national",
+    "meaning_zh": "adj. 国家的；民族的；全国的",
+    "phonetic": "/ˈnæʃnəl/",
+    "example": "National identity is an important aspect of cultural heritage."
+  },
+  {
+    "word": "nature",
+    "meaning_zh": "n. 自然；性质；本性",
+    "phonetic": "/ˈneɪtʃə/",
+    "example": "The beauty of nature inspired many great poets and artists."
+  },
+  {
+    "word": "negative",
+    "meaning_zh": "adj. 消极的；否定的；负面的",
+    "phonetic": "/ˈneɡətɪv/",
+    "example": "The experience had a negative impact on her confidence."
+  },
+  {
+    "word": "negotiate",
+    "meaning_zh": "v. 谈判；协商；商议",
+    "phonetic": "/nɪˈɡəʊʃieɪt/",
+    "example": "The union is negotiating with management for better working conditions."
+  },
+  {
+    "word": "network",
+    "meaning_zh": "n. 网络；关系网；v. 建立关系网",
+    "phonetic": "/ˈnetwɜːk/",
+    "example": "Building a professional network is crucial for career development."
+  },
+  {
+    "word": "neutral",
+    "meaning_zh": "adj. 中立的；中性的；不偏不倚的",
+    "phonetic": "/ˈnjuːtrəl/",
+    "example": "Switzerland remained neutral during both world wars."
+  },
+  {
+    "word": "nevertheless",
+    "meaning_zh": "adv. 然而；不过；尽管如此",
+    "phonetic": "/ˌnevəðəˈles/",
+    "example": "The weather was terrible; nevertheless, we enjoyed our trip immensely."
+  },
+  {
+    "word": "notion",
+    "meaning_zh": "n. 概念；观念；想法",
+    "phonetic": "/ˈnəʊʃn/",
+    "example": "The notion of democracy is widely accepted around the world."
+  },
+  {
+    "word": "nuclear",
+    "meaning_zh": "adj. 核能的；原子能的；核心的",
+    "phonetic": "/ˈnjuːkliə/",
+    "example": "Nuclear energy provides a significant portion of the country's electricity."
+  },
+  {
+    "word": "objective",
+    "meaning_zh": "n. 目标；adj. 客观的",
+    "phonetic": "/əbˈdʒektɪv/",
+    "example": "The primary objective of the project is to reduce carbon emissions."
+  },
+  {
+    "word": "observe",
+    "meaning_zh": "v. 观察；注意到；遵守；庆祝",
+    "phonetic": "/əbˈzɜːv/",
+    "example": "Scientists observed the behaviour of the animals in their natural habitat."
+  },
+  {
+    "word": "obstacle",
+    "meaning_zh": "n. 障碍；阻碍；妨碍",
+    "phonetic": "/ˈɒbstəkl/",
+    "example": "Lack of funding is a major obstacle to completing the project."
+  },
+  {
+    "word": "obtain",
+    "meaning_zh": "v. 获得；得到；存在",
+    "phonetic": "/əbˈteɪn/",
+    "example": "She obtained a master's degree in economics from a prestigious university."
+  },
+  {
+    "word": "obvious",
+    "meaning_zh": "adj. 明显的；显然的；显而易见的",
+    "phonetic": "/ˈɒbviəs/",
+    "example": "It was obvious that she had prepared thoroughly for the presentation."
+  },
+  {
+    "word": "occur",
+    "meaning_zh": "v. 发生；出现；被想到",
+    "phonetic": "/əˈkɜː/",
+    "example": "The accident occurred on a busy motorway during rush hour."
+  },
+  {
+    "word": "offend",
+    "meaning_zh": "v. 冒犯；得罪；违反",
+    "phonetic": "/əˈfend/",
+    "example": "I hope I did not offend anyone with my remarks."
+  },
+  {
+    "word": "operate",
+    "meaning_zh": "v. 操作；经营；动手术",
+    "phonetic": "/ˈɒpəreɪt/",
+    "example": "The machine is designed to operate at high temperatures."
+  },
+  {
+    "word": "opportunity",
+    "meaning_zh": "n. 机会；时机",
+    "phonetic": "/ˌɒpəˈtjuːnəti/",
+    "example": "Studying abroad provides an excellent opportunity to learn about other cultures."
+  },
+  {
+    "word": "oppose",
+    "meaning_zh": "v. 反对；对抗；抵制",
+    "phonetic": "/əˈpəʊz/",
+    "example": "Many local residents oppose the construction of the new motorway."
+  },
+  {
+    "word": "option",
+    "meaning_zh": "n. 选择；选项；选择权",
+    "phonetic": "/ˈɒpʃn/",
+    "example": "We need to consider all available options before making a final decision."
+  },
+  {
+    "word": "organise",
+    "meaning_zh": "v. 组织；安排；整理",
+    "phonetic": "/ˈɔːɡənaɪz/",
+    "example": "The conference was very well organised by the university staff."
+  },
+  {
+    "word": "origin",
+    "meaning_zh": "n. 起源；由来；出身",
+    "phonetic": "/ˈɒrɪdʒɪn/",
+    "example": "The origins of this tradition can be traced back to ancient times."
+  },
+  {
+    "word": "outcome",
+    "meaning_zh": "n. 结果；成果；结局",
+    "phonetic": "/ˈaʊtkʌm/",
+    "example": "The outcome of the research will be published in a scientific journal."
+  },
+  {
+    "word": "output",
+    "meaning_zh": "n. 产出；产量；输出",
+    "phonetic": "/ˈaʊtpʊt/",
+    "example": "The factory has increased its output by twenty percent this year."
+  },
+  {
+    "word": "overall",
+    "meaning_zh": "adj. 总体的；全面的；adv. 总体上",
+    "phonetic": "/ˌəʊvərˈɔːl/",
+    "example": "Overall, the project was considered a great success."
+  },
+  {
+    "word": "overcome",
+    "meaning_zh": "v. 克服；战胜；压倒",
+    "phonetic": "/ˌəʊvəˈkʌm/",
+    "example": "She overcame many obstacles to achieve her dream of becoming a doctor."
+  },
+  {
+    "word": "overlook",
+    "meaning_zh": "v. 忽视；忽略；俯瞰",
+    "phonetic": "/ˌəʊvəˈlʊk/",
+    "example": "It is easy to overlook the importance of regular exercise."
+  },
+  {
+    "word": "panel",
+    "meaning_zh": "n. 面板；小组；陪审团",
+    "phonetic": "/ˈpænl/",
+    "example": "A panel of experts will evaluate the research proposals."
+  },
+  {
+    "word": "paragraph",
+    "meaning_zh": "n. 段落；节",
+    "phonetic": "/ˈpærəɡrɑːf/",
+    "example": "Please write a paragraph summarising the main points of the article."
+  },
+  {
+    "word": "participate",
+    "meaning_zh": "v. 参加；参与",
+    "phonetic": "/pɑːˈtɪsɪpeɪt/",
+    "example": "All students are encouraged to participate in extracurricular activities."
+  },
+  {
+    "word": "particular",
+    "meaning_zh": "adj. 特定的；特别的；讲究的",
+    "phonetic": "/pəˈtɪkjələ/",
+    "example": "Is there a particular reason why you chose this university?"
+  },
+  {
+    "word": "passion",
+    "meaning_zh": "n. 热情；激情；热爱",
+    "phonetic": "/ˈpæʃn/",
+    "example": "She has a great passion for teaching and inspiring young people."
+  },
+  {
+    "word": "passive",
+    "meaning_zh": "adj. 被动的；消极的",
+    "phonetic": "/ˈpæsɪv/",
+    "example": "She took a passive role in the discussion and did not contribute any ideas."
+  },
+  {
+    "word": "pattern",
+    "meaning_zh": "n. 模式；图案；模范",
+    "phonetic": "/ˈpætn/",
+    "example": "The study identified a clear pattern of behaviour among online shoppers."
+  },
+  {
+    "word": "perceive",
+    "meaning_zh": "v. 感知；察觉；理解",
+    "phonetic": "/pəˈsiːv/",
+    "example": "Children perceive the world in a very different way from adults."
+  },
+  {
+    "word": "percentage",
+    "meaning_zh": "n. 百分比；百分率",
+    "phonetic": "/pəˈsentɪdʒ/",
+    "example": "A large percentage of the population lives in urban areas."
+  },
+  {
+    "word": "perform",
+    "meaning_zh": "v. 表演；执行；表现",
+    "phonetic": "/pəˈfɔːm/",
+    "example": "The team performed exceptionally well in the final competition."
+  },
+  {
+    "word": "permanent",
+    "meaning_zh": "adj. 永久的；长期的；固定的",
+    "phonetic": "/ˈpɜːmənənt/",
+    "example": "After several temporary jobs, she finally found a permanent position."
+  },
+  {
+    "word": "permission",
+    "meaning_zh": "n. 允许；许可；批准",
+    "phonetic": "/pəˈmɪʃn/",
+    "example": "You need to ask for permission before using the laboratory equipment."
+  },
+  {
+    "word": "persist",
+    "meaning_zh": "v. 坚持；持续；固执",
+    "phonetic": "/pəˈsɪst/",
+    "example": "If you persist in your efforts, you will eventually succeed."
+  },
+  {
+    "word": "perspective",
+    "meaning_zh": "n. 视角；观点；透视法",
+    "phonetic": "/pəˈspektɪv/",
+    "example": "It is important to consider the problem from different perspectives."
+  },
+  {
+    "word": "phenomenon",
+    "meaning_zh": "n. 现象(复数: phenomena)",
+    "phonetic": "/fɪˈnɒmɪnən/",
+    "example": "Globalisation is a complex phenomenon with far-reaching effects."
+  },
+  {
+    "word": "philosophy",
+    "meaning_zh": "n. 哲学；人生哲学",
+    "phonetic": "/fɪˈlɒsəfi/",
+    "example": "She studied philosophy at university and later became a professor."
+  },
+  {
+    "word": "physical",
+    "meaning_zh": "adj. 身体的；物理的；物质的",
+    "phonetic": "/ˈfɪzɪkl/",
+    "example": "Regular physical activity is essential for maintaining good health."
+  },
+  {
+    "word": "platform",
+    "meaning_zh": "n. 平台；站台；纲领",
+    "phonetic": "/ˈplætfɔːm/",
+    "example": "The company developed a digital platform for online learning."
+  },
+  {
+    "word": "policy",
+    "meaning_zh": "n. 政策；方针；保险单",
+    "phonetic": "/ˈpɒləsi/",
+    "example": "The government has introduced a new policy to promote renewable energy."
+  },
+  {
+    "word": "pollution",
+    "meaning_zh": "n. 污染；污染物",
+    "phonetic": "/pəˈluːʃn/",
+    "example": "Air pollution in major cities has become a serious health concern."
+  },
+  {
+    "word": "population",
+    "meaning_zh": "n. 人口；种群",
+    "phonetic": "/ˌpɒpjuˈleɪʃn/",
+    "example": "The world population is expected to reach nine billion by 2050."
+  },
+  {
+    "word": "portion",
+    "meaning_zh": "n. 部分；一份；一部分",
+    "phonetic": "/ˈpɔːʃn/",
+    "example": "A significant portion of the budget is allocated to education."
+  },
+  {
+    "word": "portray",
+    "meaning_zh": "v. 描绘；描写；扮演",
+    "phonetic": "/pɔːˈtreɪ/",
+    "example": "The film accurately portrays life in Victorian England."
+  },
+  {
+    "word": "positive",
+    "meaning_zh": "adj. 积极的；肯定的；正面的",
+    "phonetic": "/ˈpɒzətɪv/",
+    "example": "She has a very positive attitude towards overcoming challenges."
+  },
+  {
+    "word": "potential",
+    "meaning_zh": "adj. 潜在的；n. 潜力；可能性",
+    "phonetic": "/pəˈtenʃl/",
+    "example": "The region has great economic potential for future development."
+  },
+  {
+    "word": "poverty",
+    "meaning_zh": "n. 贫困；贫穷；贫乏",
+    "phonetic": "/ˈpɒvəti/",
+    "example": "The charity is dedicated to reducing poverty in developing countries."
+  },
+  {
+    "word": "practical",
+    "meaning_zh": "adj. 实际的；实用的；务实的",
+    "phonetic": "/ˈpræktɪkl/",
+    "example": "The course focuses on providing students with practical skills."
+  },
+  {
+    "word": "precede",
+    "meaning_zh": "v. 在……之前；先于",
+    "phonetic": "/prɪˈsiːd/",
+    "example": "The introduction should precede the main body of the essay."
+  },
+  {
+    "word": "predict",
+    "meaning_zh": "v. 预测；预言；预报",
+    "phonetic": "/prɪˈdɪkt/",
+    "example": "Economists predict that inflation will rise in the coming months."
+  },
+  {
+    "word": "predominant",
+    "meaning_zh": "adj. 主要的；占主导地位的",
+    "phonetic": "/prɪˈdɒmɪnənt/",
+    "example": "English is the predominant language in international business."
+  },
+  {
+    "word": "prejudice",
+    "meaning_zh": "n. 偏见；歧视；v. 使有偏见",
+    "phonetic": "/ˈpredʒədɪs/",
+    "example": "We must work together to overcome prejudice and discrimination in society."
+  },
+  {
+    "word": "preserve",
+    "meaning_zh": "v. 保存；保护；保藏",
+    "phonetic": "/prɪˈzɜːv/",
+    "example": "It is important to preserve historical buildings for future generations."
+  },
+  {
+    "word": "pressure",
+    "meaning_zh": "n. 压力；气压；压迫",
+    "phonetic": "/ˈpreʃə/",
+    "example": "Many students feel under great pressure to achieve high exam results."
+  },
+  {
+    "word": "previous",
+    "meaning_zh": "adj. 先前的；以往的",
+    "phonetic": "/ˈpriːviəs/",
+    "example": "In the previous chapter, we discussed the causes of the war."
+  },
+  {
+    "word": "primarily",
+    "meaning_zh": "adv. 主要地；首要地；根本地",
+    "phonetic": "/ˈpraɪmərəli/",
+    "example": "The course is primarily designed for students with advanced knowledge."
+  },
+  {
+    "word": "principle",
+    "meaning_zh": "n. 原则；原理；准则",
+    "phonetic": "/ˈprɪnsəpl/",
+    "example": "Honesty is a fundamental principle of ethical behaviour."
+  },
+  {
+    "word": "priority",
+    "meaning_zh": "n. 优先；重点；优先权",
+    "phonetic": "/praɪˈɒrəti/",
+    "example": "Education and healthcare should be given top priority in the national budget."
+  },
+  {
+    "word": "procedure",
+    "meaning_zh": "n. 程序；步骤；手续",
+    "phonetic": "/prəˈsiːdʒə/",
+    "example": "Please follow the correct safety procedures when operating this equipment."
+  },
+  {
+    "word": "process",
+    "meaning_zh": "n. 过程；v. 处理；加工",
+    "phonetic": "/ˈprəʊses/",
+    "example": "The application process usually takes about four to six weeks."
+  },
+  {
+    "word": "profession",
+    "meaning_zh": "n. 职业；专业；行业",
+    "phonetic": "/prəˈfeʃn/",
+    "example": "Teaching is a highly rewarding but demanding profession."
+  },
+  {
+    "word": "profit",
+    "meaning_zh": "n. 利润；利益；v. 获益",
+    "phonetic": "/ˈprɒfɪt/",
+    "example": "The company made a record profit of ten million dollars this year."
+  },
+  {
+    "word": "profound",
+    "meaning_zh": "adj. 深刻的；深远的；深奥的",
+    "phonetic": "/prəˈfaʊnd/",
+    "example": "The discovery had a profound impact on the field of medicine."
+  },
+  {
+    "word": "progress",
+    "meaning_zh": "n. 进步；进展；v. 前进",
+    "phonetic": "/ˈprəʊɡres/",
+    "example": "She has made remarkable progress in her English language studies."
+  },
+  {
+    "word": "prohibit",
+    "meaning_zh": "v. 禁止；阻止；妨碍",
+    "phonetic": "/prəˈhɪbɪt/",
+    "example": "Smoking is strictly prohibited in all public buildings."
+  },
+  {
+    "word": "promote",
+    "meaning_zh": "v. 促进；提升；推广",
+    "phonetic": "/prəˈməʊt/",
+    "example": "Regular exercise promotes good physical and mental health."
+  },
+  {
+    "word": "proper",
+    "meaning_zh": "adj. 适当的；正确的；恰当的",
+    "phonetic": "/ˈprɒpə/",
+    "example": "It is important to wear proper safety equipment when working in the laboratory."
+  },
+  {
+    "word": "property",
+    "meaning_zh": "n. 财产；房产；性质",
+    "phonetic": "/ˈprɒpəti/",
+    "example": "The value of property in the city centre has increased dramatically."
+  },
+  {
+    "word": "proportion",
+    "meaning_zh": "n. 比例；部分；均衡",
+    "phonetic": "/prəˈpɔːʃn/",
+    "example": "A large proportion of the population lives in coastal areas."
+  },
+  {
+    "word": "prospect",
+    "meaning_zh": "n. 前景；展望；可能性",
+    "phonetic": "/ˈprɒspekt/",
+    "example": "The job prospects for graduates in this field are very promising."
+  },
+  {
+    "word": "prosperity",
+    "meaning_zh": "n. 繁荣；兴旺；成功",
+    "phonetic": "/prɒˈsperəti/",
+    "example": "The country enjoyed a long period of peace and prosperity."
+  },
+  {
+    "word": "protect",
+    "meaning_zh": "v. 保护；防护；保卫",
+    "phonetic": "/prəˈtekt/",
+    "example": "Sunscreen helps protect the skin from harmful UV rays."
+  },
+  {
+    "word": "provide",
+    "meaning_zh": "v. 提供；供应；规定",
+    "phonetic": "/prəˈvaɪd/",
+    "example": "The university provides students with access to a wide range of resources."
+  },
+  {
+    "word": "psychology",
+    "meaning_zh": "n. 心理学；心理状态",
+    "phonetic": "/saɪˈkɒlədʒi/",
+    "example": "She is studying psychology at the University of Manchester."
+  },
+  {
+    "word": "publish",
+    "meaning_zh": "v. 出版；发表；发布",
+    "phonetic": "/ˈpʌblɪʃ/",
+    "example": "She published her first novel at the age of twenty-five."
+  },
+  {
+    "word": "purchase",
+    "meaning_zh": "v. 购买；n. 购买；采购",
+    "phonetic": "/ˈpɜːtʃəs/",
+    "example": "You can purchase tickets online or at the box office."
+  },
+  {
+    "word": "pursue",
+    "meaning_zh": "v. 追求；追赶；从事",
+    "phonetic": "/pəˈsjuː/",
+    "example": "After graduation, she decided to pursue a career in medicine."
+  },
+  {
+    "word": "qualification",
+    "meaning_zh": "n. 资格；学历；限定条件",
+    "phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/",
+    "example": "What qualifications do you need for this job?"
+  },
+  {
+    "word": "quantity",
+    "meaning_zh": "n. 数量；大量；定量",
+    "phonetic": "/ˈkwɒntəti/",
+    "example": "We need a large quantity of materials to complete the project."
+  },
+  {
+    "word": "radical",
+    "meaning_zh": "adj. 根本的；激进的；彻底的",
+    "phonetic": "/ˈrædɪkl/",
+    "example": "The country needs radical reforms to its education system."
+  },
+  {
+    "word": "random",
+    "meaning_zh": "adj. 随机的；任意的；随意的",
+    "phonetic": "/ˈrændəm/",
+    "example": "The participants were selected at random for the study."
+  },
+  {
+    "word": "range",
+    "meaning_zh": "n. 范围；一系列；v. 涉及；变化",
+    "phonetic": "/reɪndʒ/",
+    "example": "The university offers a wide range of courses for international students."
+  },
+  {
+    "word": "rational",
+    "meaning_zh": "adj. 理性的；合理的；理智的",
+    "phonetic": "/ˈræʃnəl/",
+    "example": "It is important to make rational decisions based on evidence."
+  },
+  {
+    "word": "reaction",
+    "meaning_zh": "n. 反应；回应；反作用力",
+    "phonetic": "/riˈækʃn/",
+    "example": "There was a mixed reaction to the government's new policy."
+  },
+  {
+    "word": "realistic",
+    "meaning_zh": "adj. 现实的；实际可行的；逼真的",
+    "phonetic": "/ˌriːəˈlɪstɪk/",
+    "example": "We need to set realistic goals that we can actually achieve."
+  },
+  {
+    "word": "recognise",
+    "meaning_zh": "v. 认出；承认；认可",
+    "phonetic": "/ˈrekəɡnaɪz/",
+    "example": "I hardly recognised her after so many years."
+  },
+  {
+    "word": "recommend",
+    "meaning_zh": "v. 推荐；建议；推荐",
+    "phonetic": "/ˌrekəˈmend/",
+    "example": "I would highly recommend this book to anyone interested in history."
+  },
+  {
+    "word": "recover",
+    "meaning_zh": "v. 恢复；康复；找回",
+    "phonetic": "/rɪˈkʌvə/",
+    "example": "It took her several months to recover from the serious illness."
+  },
+  {
+    "word": "reduce",
+    "meaning_zh": "v. 减少；降低；使变小",
+    "phonetic": "/rɪˈdjuːs/",
+    "example": "We need to take urgent action to reduce carbon emissions."
+  },
+  {
+    "word": "refer",
+    "meaning_zh": "v. 参考；提到；涉及；提交",
+    "phonetic": "/rɪˈfɜː/",
+    "example": "Please refer to the user manual for detailed instructions."
+  },
+  {
+    "word": "reflect",
+    "meaning_zh": "v. 反映；反射；思考",
+    "phonetic": "/rɪˈflekt/",
+    "example": "The test results reflect the students' hard work and dedication."
+  },
+  {
+    "word": "reform",
+    "meaning_zh": "v. 改革；改进；n. 改革",
+    "phonetic": "/rɪˈfɔːm/",
+    "example": "The government introduced major reforms to the healthcare system."
+  },
+  {
+    "word": "region",
+    "meaning_zh": "n. 地区；区域；地带",
+    "phonetic": "/ˈriːdʒən/",
+    "example": "This region is known for its beautiful scenery and mild climate."
+  },
+  {
+    "word": "register",
+    "meaning_zh": "v. 登记；注册；n. 登记簿",
+    "phonetic": "/ˈredʒɪstə/",
+    "example": "You need to register for the course before the start of the semester."
+  },
+  {
+    "word": "regulate",
+    "meaning_zh": "v. 调节；管理；控制",
+    "phonetic": "/ˈreɡjʊleɪt/",
+    "example": "The government regulates the banking industry to protect consumers."
+  },
+  {
+    "word": "reject",
+    "meaning_zh": "v. 拒绝；驳回；抛弃",
+    "phonetic": "/rɪˈdʒekt/",
+    "example": "The committee rejected his proposal due to insufficient evidence."
+  },
+  {
+    "word": "relate",
+    "meaning_zh": "v. 关联；叙述；理解",
+    "phonetic": "/rɪˈleɪt/",
+    "example": "The two events are closely related to each other."
+  },
+  {
+    "word": "release",
+    "meaning_zh": "v. 释放；发布；发行；n. 释放",
+    "phonetic": "/rɪˈliːs/",
+    "example": "The company released a new version of its popular software."
+  },
+  {
+    "word": "relevant",
+    "meaning_zh": "adj. 相关的；切题的；有意义的",
+    "phonetic": "/ˈreləvənt/",
+    "example": "Make sure your comments are relevant to the topic being discussed."
+  },
+  {
+    "word": "relief",
+    "meaning_zh": "n. 减轻；缓解；救济",
+    "phonetic": "/rɪˈliːf/",
+    "example": "The medication brought immediate relief from the pain."
+  },
+  {
+    "word": "rely",
+    "meaning_zh": "v. 依赖；依靠；信赖",
+    "phonetic": "/rɪˈlaɪ/",
+    "example": "You can always rely on her to complete tasks on time."
+  },
+  {
+    "word": "remain",
+    "meaning_zh": "v. 保持；留下；仍然是",
+    "phonetic": "/rɪˈmeɪn/",
+    "example": "Please remain seated until the aircraft comes to a complete stop."
+  },
+  {
+    "word": "remedy",
+    "meaning_zh": "n. 补救方法；治疗法；v. 补救",
+    "phonetic": "/ˈremədi/",
+    "example": "The best remedy for stress is regular exercise and adequate sleep."
+  },
+  {
+    "word": "remote",
+    "meaning_zh": "adj. 遥远的；偏僻的；疏远的",
+    "phonetic": "/rɪˈməʊt/",
+    "example": "The village is located in a remote area with limited access to facilities."
+  },
+  {
+    "word": "remove",
+    "meaning_zh": "v. 移除；消除；脱掉",
+    "phonetic": "/rɪˈmuːv/",
+    "example": "Please remove your shoes before entering the temple."
+  },
+  {
+    "word": "replace",
+    "meaning_zh": "v. 替换；取代；更换",
+    "phonetic": "/rɪˈpleɪs/",
+    "example": "The old heating system was replaced with a more energy-efficient model."
+  },
+  {
+    "word": "represent",
+    "meaning_zh": "v. 代表；表示；描绘",
+    "phonetic": "/ˌreprɪˈzent/",
+    "example": "The dove represents peace in many cultures."
+  },
+  {
+    "word": "reproduce",
+    "meaning_zh": "v. 复制；再生；繁殖",
+    "phonetic": "/ˌriːprəˈdjuːs/",
+    "example": "The diagram can be easily reproduced using computer software."
+  },
+  {
+    "word": "reputation",
+    "meaning_zh": "n. 名誉；声望；名声",
+    "phonetic": "/ˌrepjuˈteɪʃn/",
+    "example": "The company has built a strong reputation for quality and reliability."
+  },
+  {
+    "word": "require",
+    "meaning_zh": "v. 需要；要求；命令",
+    "phonetic": "/rɪˈkwaɪə/",
+    "example": "This job requires excellent communication and organisational skills."
+  },
+  {
+    "word": "research",
+    "meaning_zh": "n. 研究；调查；v. 研究",
+    "phonetic": "/rɪˈsɜːtʃ/",
+    "example": "The research was published in a leading scientific journal."
+  },
+  {
+    "word": "reserve",
+    "meaning_zh": "v. 保留；预订；n. 自然保护区",
+    "phonetic": "/rɪˈzɜːv/",
+    "example": "Please reserve a table for two at the restaurant for Friday evening."
+  },
+  {
+    "word": "reside",
+    "meaning_zh": "v. 居住；存在于；属于",
+    "phonetic": "/rɪˈzaɪd/",
+    "example": "The family currently resides in a small town in the countryside."
+  },
+  {
+    "word": "resign",
+    "meaning_zh": "v. 辞职；放弃；听从",
+    "phonetic": "/rɪˈzaɪn/",
+    "example": "The manager decided to resign from his position after the incident."
+  },
+  {
+    "word": "resolve",
+    "meaning_zh": "v. 解决；决心；n. 决心",
+    "phonetic": "/rɪˈzɒlv/",
+    "example": "We need to find a way to resolve this conflict peacefully."
+  },
+  {
+    "word": "resource",
+    "meaning_zh": "n. 资源；财力；资料",
+    "phonetic": "/rɪˈsɔːs/",
+    "example": "Water is one of our most precious natural resources."
+  },
+  {
+    "word": "respond",
+    "meaning_zh": "v. 回答；回应；响应",
+    "phonetic": "/rɪˈspɒnd/",
+    "example": "Please respond to the invitation by the end of the week."
+  },
+  {
+    "word": "responsible",
+    "meaning_zh": "adj. 负责的；有责任心的；可靠的",
+    "phonetic": "/rɪˈspɒnsəbl/",
+    "example": "The pilot is ultimately responsible for the safety of all passengers."
+  },
+  {
+    "word": "restore",
+    "meaning_zh": "v. 恢复；修复；归还",
+    "phonetic": "/rɪˈstɔː/",
+    "example": "The historic building was carefully restored to its original condition."
+  },
+  {
+    "word": "restrict",
+    "meaning_zh": "v. 限制；约束；限定",
+    "phonetic": "/rɪˈstrɪkt/",
+    "example": "The new law restricts the use of plastic bags in supermarkets."
+  },
+  {
+    "word": "retain",
+    "meaning_zh": "v. 保留；保持；留住",
+    "phonetic": "/rɪˈteɪn/",
+    "example": "The company managed to retain most of its experienced employees."
+  },
+  {
+    "word": "reveal",
+    "meaning_zh": "v. 揭示；显示；透露",
+    "phonetic": "/rɪˈviːl/",
+    "example": "The investigation revealed shocking details about the accident."
+  },
+  {
+    "word": "revenue",
+    "meaning_zh": "n. 收入；税收；营收",
+    "phonetic": "/ˈrevənjuː/",
+    "example": "The company's annual revenue exceeded one billion dollars."
+  },
+  {
+    "word": "reverse",
+    "meaning_zh": "v. 逆转；反转；adj. 相反的",
+    "phonetic": "/rɪˈvɜːs/",
+    "example": "The court reversed its previous decision after new evidence emerged."
+  },
+  {
+    "word": "revise",
+    "meaning_zh": "v. 修订；修改；复习",
+    "phonetic": "/rɪˈvaɪz/",
+    "example": "She revised her essay several times before submitting it."
+  },
+  {
+    "word": "revolution",
+    "meaning_zh": "n. 革命；变革；旋转",
+    "phonetic": "/ˌrevəˈluːʃn/",
+    "example": "The industrial revolution transformed society in many ways."
+  },
+  {
+    "word": "risk",
+    "meaning_zh": "n. 风险；危险；v. 冒险",
+    "phonetic": "/rɪsk/",
+    "example": "Smoking significantly increases the risk of developing lung cancer."
+  },
+  {
+    "word": "rural",
+    "meaning_zh": "adj. 农村的；乡村的；田园的",
+    "phonetic": "/ˈrʊərəl/",
+    "example": "Many young people move from rural areas to cities in search of better opportunities."
+  },
+  {
+    "word": "sacrifice",
+    "meaning_zh": "v. 牺牲；献出；n. 牺牲",
+    "phonetic": "/ˈsækrɪfaɪs/",
+    "example": "Parents often make many sacrifices for the well-being of their children."
+  },
+  {
+    "word": "satisfaction",
+    "meaning_zh": "n. 满意；满足；满足感",
+    "phonetic": "/ˌsætɪsˈfækʃn/",
+    "example": "She expressed her satisfaction with the final results of the project."
+  },
+  {
+    "word": "schedule",
+    "meaning_zh": "n. 时间表；日程；v. 安排",
+    "phonetic": "/ˈʃedjuːl/",
+    "example": "The flight arrived on schedule despite the bad weather."
+  },
+  {
+    "word": "scheme",
+    "meaning_zh": "n. 计划；方案；阴谋；v. 策划",
+    "phonetic": "/skiːm/",
+    "example": "The government introduced a new scheme to help first-time home buyers."
+  },
+  {
+    "word": "secure",
+    "meaning_zh": "adj. 安全的；稳固的；v. 获得；保护",
+    "phonetic": "/sɪˈkjʊə/",
+    "example": "Make sure all windows and doors are secure before leaving."
+  },
+  {
+    "word": "seek",
+    "meaning_zh": "v. 寻求；寻找；追求",
+    "phonetic": "/siːk/",
+    "example": "You should seek professional advice before making such an important decision."
+  },
+  {
+    "word": "select",
+    "meaning_zh": "v. 选择；挑选；选拔",
+    "phonetic": "/sɪˈlekt/",
+    "example": "Please select the most appropriate answer from the options below."
+  },
+  {
+    "word": "senior",
+    "meaning_zh": "adj. 资深的；年长的；高级的",
+    "phonetic": "/ˈsiːniə/",
+    "example": "She was promoted to a senior management position after five years."
+  },
+  {
+    "word": "sensitive",
+    "meaning_zh": "adj. 敏感的；灵敏的；易受影响的",
+    "phonetic": "/ˈsensətɪv/",
+    "example": "This is a sensitive topic that should be handled with care."
+  },
+  {
+    "word": "sequence",
+    "meaning_zh": "n. 顺序；序列；连续",
+    "phonetic": "/ˈsiːkwəns/",
+    "example": "Please follow the correct sequence of steps to assemble the furniture."
+  },
+  {
+    "word": "severe",
+    "meaning_zh": "adj. 严重的；严厉的；剧烈的",
+    "phonetic": "/sɪˈvɪə/",
+    "example": "The country is experiencing a severe drought after months of no rain."
+  },
+  {
+    "word": "shift",
+    "meaning_zh": "v. 转变；转移；n. 轮班",
+    "phonetic": "/ʃɪft/",
+    "example": "There has been a significant shift in public opinion on environmental issues."
+  },
+  {
+    "word": "significant",
+    "meaning_zh": "adj. 重要的；显著的；有意义的",
+    "phonetic": "/sɪɡˈnɪfɪkənt/",
+    "example": "There was a significant increase in sales during the holiday season."
+  },
+  {
+    "word": "similar",
+    "meaning_zh": "adj. 相似的；类似的",
+    "phonetic": "/ˈsɪmɪlə/",
+    "example": "The two paintings are remarkably similar in style and composition."
+  },
+  {
+    "word": "source",
+    "meaning_zh": "n. 来源；出处；源头",
+    "phonetic": "/sɔːs/",
+    "example": "The journalist refused to reveal the source of her information."
+  },
+  {
+    "word": "specific",
+    "meaning_zh": "adj. 具体的；特定的；明确的",
+    "phonetic": "/spəˈsɪfɪk/",
+    "example": "Can you be more specific about what you are looking for?"
+  },
+  {
+    "word": "stability",
+    "meaning_zh": "n. 稳定；稳定性；稳固",
+    "phonetic": "/stəˈbɪləti/",
+    "example": "Political stability is essential for economic growth."
+  },
+  {
+    "word": "statistics",
+    "meaning_zh": "n. 统计数据；统计学",
+    "phonetic": "/stəˈtɪstɪks/",
+    "example": "According to official statistics, unemployment has fallen by two percent."
+  },
+  {
+    "word": "stimulate",
+    "meaning_zh": "v. 刺激；激励；促进",
+    "phonetic": "/ˈstɪmjʊleɪt/",
+    "example": "The government hopes the new policy will stimulate economic growth."
+  },
+  {
+    "word": "strategy",
+    "meaning_zh": "n. 策略；战略；规划",
+    "phonetic": "/ˈstrætədʒi/",
+    "example": "The company needs to develop a clear marketing strategy for the new product."
+  },
+  {
+    "word": "structure",
+    "meaning_zh": "n. 结构；构造；v. 组织",
+    "phonetic": "/ˈstrʌktʃə/",
+    "example": "The essay has a clear structure with an introduction, body and conclusion."
+  },
+  {
+    "word": "struggle",
+    "meaning_zh": "v. 挣扎；奋斗；n. 斗争；努力",
+    "phonetic": "/ˈstrʌɡl/",
+    "example": "Many families struggle to make ends meet on low incomes."
+  },
+  {
+    "word": "subsequent",
+    "meaning_zh": "adj. 随后的；后来的；之后的",
+    "phonetic": "/ˈsʌbsɪkwənt/",
+    "example": "Subsequent investigations revealed further evidence of fraud."
+  },
+  {
+    "word": "subsidy",
+    "meaning_zh": "n. 补贴；补助金；津贴",
+    "phonetic": "/ˈsʌbsədi/",
+    "example": "The government provides subsidies to farmers to support agricultural production."
+  },
+  {
+    "word": "substitute",
+    "meaning_zh": "v. 替代；n. 替代品；替补",
+    "phonetic": "/ˈsʌbstɪtjuːt/",
+    "example": "You can substitute olive oil for butter in this recipe."
+  },
+  {
+    "word": "sufficient",
+    "meaning_zh": "adj. 足够的；充分的",
+    "phonetic": "/səˈfɪʃnt/",
+    "example": "There is not sufficient evidence to prove his guilt."
+  },
+  {
+    "word": "summarise",
+    "meaning_zh": "v. 总结；概括；概述",
+    "phonetic": "/ˈsʌməraɪz/",
+    "example": "Please summarise the main points of the article in one paragraph."
+  },
+  {
+    "word": "superior",
+    "meaning_zh": "adj. 优越的；上级的；n. 上级",
+    "phonetic": "/suːˈpɪəriə/",
+    "example": "This product is superior in quality compared to its competitors."
+  },
+  {
+    "word": "supply",
+    "meaning_zh": "v. 供应；提供；n. 供应量",
+    "phonetic": "/səˈplaɪ/",
+    "example": "The company supplies medical equipment to hospitals nationwide."
+  },
+  {
+    "word": "support",
+    "meaning_zh": "v. 支持；资助；n. 支持",
+    "phonetic": "/səˈpɔːt/",
+    "example": "Her family has always supported her career choices."
+  },
+  {
+    "word": "suppose",
+    "meaning_zh": "v. 假设；认为；猜想",
+    "phonetic": "/səˈpəʊz/",
+    "example": "I suppose you have already heard the news about the merger."
+  },
+  {
+    "word": "survey",
+    "meaning_zh": "n. 调查；测量；v. 调查",
+    "phonetic": "/ˈsɜːveɪ/",
+    "example": "A recent survey found that many people are concerned about climate change."
+  },
+  {
+    "word": "survive",
+    "meaning_zh": "v. 幸存；生存；比……活得长",
+    "phonetic": "/səˈvaɪv/",
+    "example": "Only a few passengers survived the plane crash."
+  },
+  {
+    "word": "suspect",
+    "meaning_zh": "v. 怀疑；n. 嫌疑犯；adj. 可疑的",
+    "phonetic": "/səˈspekt/",
+    "example": "The police suspect him of being involved in the robbery."
+  },
+  {
+    "word": "sustain",
+    "meaning_zh": "v. 维持；支撑；遭受",
+    "phonetic": "/səˈsteɪn/",
+    "example": "The ecosystem can only sustain a limited number of species."
+  },
+  {
+    "word": "symbol",
+    "meaning_zh": "n. 象征；标志；符号",
+    "phonetic": "/ˈsɪmbl/",
+    "example": "The dove is a universal symbol of peace and hope."
+  },
+  {
+    "word": "target",
+    "meaning_zh": "n. 目标；对象；v. 瞄准",
+    "phonetic": "/ˈtɑːɡɪt/",
+    "example": "We are on track to achieve our sales target for this quarter."
+  },
+  {
+    "word": "technique",
+    "meaning_zh": "n. 技术；技巧；手法",
+    "phonetic": "/tekˈniːk/",
+    "example": "The artist uses a unique painting technique that she developed herself."
+  },
+  {
+    "word": "technology",
+    "meaning_zh": "n. 科技；技术；工艺",
+    "phonetic": "/tekˈnɒlədʒi/",
+    "example": "Advances in technology have transformed almost every aspect of our lives."
+  },
+  {
+    "word": "temporary",
+    "meaning_zh": "adj. 临时的；暂时的；短暂的",
+    "phonetic": "/ˈtemprəri/",
+    "example": "She found a temporary job while looking for a permanent position."
+  },
+  {
+    "word": "tendency",
+    "meaning_zh": "n. 趋势；倾向；偏好",
+    "phonetic": "/ˈtendənsi/",
+    "example": "There is a growing tendency for people to work from home."
+  },
+  {
+    "word": "terminate",
+    "meaning_zh": "v. 终止；结束；解雇",
+    "phonetic": "/ˈtɜːmɪneɪt/",
+    "example": "The contract was terminated due to a breach of agreement."
+  },
+  {
+    "word": "territory",
+    "meaning_zh": "n. 领土；领域；范围",
+    "phonetic": "/ˈterətri/",
+    "example": "The island is considered to be British territory."
+  },
+  {
+    "word": "threat",
+    "meaning_zh": "n. 威胁；恐吓；凶兆",
+    "phonetic": "/θret/",
+    "example": "Climate change poses a serious threat to global food security."
+  },
+  {
+    "word": "tolerate",
+    "meaning_zh": "v. 容忍；忍受；容许",
+    "phonetic": "/ˈtɒləreɪt/",
+    "example": "The human body can only tolerate extreme temperatures for a short time."
+  },
+  {
+    "word": "transform",
+    "meaning_zh": "v. 转变；改造；彻底改变",
+    "phonetic": "/trænsˈfɔːm/",
+    "example": "The internet has fundamentally transformed the way we communicate."
+  },
+  {
+    "word": "transmit",
+    "meaning_zh": "v. 传送；传播；传染",
+    "phonetic": "/trænsˈmɪt/",
+    "example": "The disease is transmitted through contact with infected animals."
+  },
+  {
+    "word": "transparent",
+    "meaning_zh": "adj. 透明的；显而易见的；坦率的",
+    "phonetic": "/trænsˈpærənt/",
+    "example": "The company needs to be more transparent about its financial dealings."
+  },
+  {
+    "word": "transport",
+    "meaning_zh": "n. 运输；交通工具；v. 运输",
+    "phonetic": "/ˈtrænspɔːt/",
+    "example": "The goods were transported by truck to the distribution centre."
+  },
+  {
+    "word": "trend",
+    "meaning_zh": "n. 趋势；潮流；走向",
+    "phonetic": "/trend/",
+    "example": "The trend towards healthier eating has grown significantly in recent years."
+  },
+  {
+    "word": "trigger",
+    "meaning_zh": "v. 触发；引起；n. 扳机；触发器",
+    "phonetic": "/ˈtrɪɡə/",
+    "example": "Stress can trigger a range of physical health problems."
+  },
+  {
+    "word": "typical",
+    "meaning_zh": "adj. 典型的；特有的；通常的",
+    "phonetic": "/ˈtɪpɪkl/",
+    "example": "This is a typical example of Romanesque architecture."
+  },
+  {
+    "word": "ultimately",
+    "meaning_zh": "adv. 最终；从根本上；归根结底",
+    "phonetic": "/ˈʌltɪmətli/",
+    "example": "Ultimately, the success of the project depends on the team's collaboration."
+  },
+  {
+    "word": "undergo",
+    "meaning_zh": "v. 经历；遭受；承受",
+    "phonetic": "/ˌʌndəˈɡəʊ/",
+    "example": "The patient underwent a major heart surgery last week."
+  },
+  {
+    "word": "undertake",
+    "meaning_zh": "v. 承担；着手；进行",
+    "phonetic": "/ˌʌndəˈteɪk/",
+    "example": "She undertook the responsibility of organising the entire conference."
+  },
+  {
+    "word": "unique",
+    "meaning_zh": "adj. 独特的；唯一的；独一无二的",
+    "phonetic": "/juːˈniːk/",
+    "example": "Every individual has a unique combination of talents and abilities."
+  },
+  {
+    "word": "universal",
+    "meaning_zh": "adj. 普遍的；全体的；通用的",
+    "phonetic": "/ˌjuːnɪˈvɜːsl/",
+    "example": "Education is a universal human right."
+  },
+  {
+    "word": "urban",
+    "meaning_zh": "adj. 城市的；都市的",
+    "phonetic": "/ˈɜːbən/",
+    "example": "Urban areas are becoming increasingly crowded as more people move to cities."
+  },
+  {
+    "word": "utilise",
+    "meaning_zh": "v. 利用；使用；运用",
+    "phonetic": "/ˈjuːtəlaɪz/",
+    "example": "We should utilise renewable energy sources to reduce our carbon footprint."
+  },
+  {
+    "word": "valid",
+    "meaning_zh": "adj. 有效的；合理的；有根据的",
+    "phonetic": "/ˈvælɪd/",
+    "example": "Your passport is valid for ten years from the date of issue."
+  },
+  {
+    "word": "value",
+    "meaning_zh": "n. 价值；重要性；v. 重视；珍惜",
+    "phonetic": "/ˈvæljuː/",
+    "example": "The value of the property has increased significantly over the past decade."
+  },
+  {
+    "word": "variable",
+    "meaning_zh": "adj. 变化的；可变的；n. 变量",
+    "phonetic": "/ˈveəriəbl/",
+    "example": "The weather in this region is highly variable throughout the year."
+  },
+  {
+    "word": "variety",
+    "meaning_zh": "n. 多样化；种类；变化",
+    "phonetic": "/vəˈraɪəti/",
+    "example": "The supermarket offers a wide variety of fresh organic produce."
+  },
+  {
+    "word": "vast",
+    "meaning_zh": "adj. 广阔的；大量的；巨大的",
+    "phonetic": "/vɑːst/",
+    "example": "The desert is a vast expanse of sand and rock."
+  },
+  {
+    "word": "venture",
+    "meaning_zh": "n. 风险项目；企业；v. 冒险",
+    "phonetic": "/ˈventʃə/",
+    "example": "The business venture proved to be highly profitable."
+  },
+  {
+    "word": "version",
+    "meaning_zh": "n. 版本；说法；变体",
+    "phonetic": "/ˈvɜːʃn/",
+    "example": "This is the latest version of the software with many new features."
+  },
+  {
+    "word": "via",
+    "meaning_zh": "prep. 经由；通过；凭借",
+    "phonetic": "/ˈvaɪə/",
+    "example": "You can apply for the visa online via the official government website."
+  },
+  {
+    "word": "victim",
+    "meaning_zh": "n. 受害者；牺牲品；遇难者",
+    "phonetic": "/ˈvɪktɪm/",
+    "example": "The victims of the earthquake received emergency aid and support."
+  },
+  {
+    "word": "violate",
+    "meaning_zh": "v. 违反；侵犯；破坏",
+    "phonetic": "/ˈvaɪəleɪt/",
+    "example": "The company was fined for violating safety regulations."
+  },
+  {
+    "word": "virtual",
+    "meaning_zh": "adj. 虚拟的；实质上的；几乎的",
+    "phonetic": "/ˈvɜːtʃuəl/",
+    "example": "Virtual meetings have become increasingly common since the pandemic."
+  },
+  {
+    "word": "visible",
+    "meaning_zh": "adj. 可见的；明显的；引人注目的",
+    "phonetic": "/ˈvɪzəbl/",
+    "example": "The stars are clearly visible in the night sky away from city lights."
+  },
+  {
+    "word": "vision",
+    "meaning_zh": "n. 视力；愿景；远见；幻象",
+    "phonetic": "/ˈvɪʒn/",
+    "example": "She has a clear vision for the future direction of the company."
+  },
+  {
+    "word": "vital",
+    "meaning_zh": "adj. 至关重要的；生命的；必不可少的",
+    "phonetic": "/ˈvaɪtl/",
+    "example": "Regular exercise is vital for maintaining good physical and mental health."
+  },
+  {
+    "word": "volume",
+    "meaning_zh": "n. 体积；容量；音量；卷",
+    "phonetic": "/ˈvɒljuːm/",
+    "example": "Could you please turn down the volume of the television?"
+  },
+  {
+    "word": "voluntary",
+    "meaning_zh": "adj. 自愿的；志愿的；义务的",
+    "phonetic": "/ˈvɒləntri/",
+    "example": "She does voluntary work at the local hospital every weekend."
+  },
+  {
+    "word": "vulnerable",
+    "meaning_zh": "adj. 脆弱的；易受伤的；易受影响的",
+    "phonetic": "/ˈvʌlnərəbl/",
+    "example": "Elderly people are particularly vulnerable during the cold winter months."
+  },
+  {
+    "word": "welfare",
+    "meaning_zh": "n. 福利；幸福；福祉",
+    "phonetic": "/ˈwelfeə/",
+    "example": "The government provides welfare benefits to support those in need."
+  },
+  {
+    "word": "whereas",
+    "meaning_zh": "conj. 然而；鉴于；反之",
+    "phonetic": "/ˌweərˈæz/",
+    "example": "Some people prefer city life, whereas others enjoy living in the countryside."
+  },
+  {
+    "word": "widespread",
+    "meaning_zh": "adj. 广泛的；普遍的；分布广的",
+    "phonetic": "/ˈwaɪdspred/",
+    "example": "There is widespread concern about the impact of plastic pollution on the environment."
+  },
+  {
+    "word": "withdraw",
+    "meaning_zh": "v. 撤回；提取；退出；收回",
+    "phonetic": "/wɪðˈdrɔː/",
+    "example": "You can withdraw cash from any ATM using your bank card."
+  },
+  {
+    "word": "witness",
+    "meaning_zh": "n. 目击者；证人；v. 目睹",
+    "phonetic": "/ˈwɪtnəs/",
+    "example": "Several people witnessed the accident and called the police immediately."
+  },
+  {
+    "word": "workforce",
+    "meaning_zh": "n. 劳动力；全体员工",
+    "phonetic": "/ˈwɜːkfɔːs/",
+    "example": "A skilled workforce is essential for the growth of any economy."
+  },
+  {
+    "word": "worthwhile",
+    "meaning_zh": "adj. 值得的；有价值的；有意义的",
+    "phonetic": "/ˌwɜːθˈwaɪl/",
+    "example": "Volunteering is a worthwhile experience that benefits both the community and yourself."
+  },
+  {
+    "word": "yield",
+    "meaning_zh": "v. 生产；产出；屈服；n. 产量",
+    "phonetic": "/jiːld/",
+    "example": "The farm yields a large harvest of wheat each year."
+  },
+  {
+    "word": "zone",
+    "meaning_zh": "n. 区域；地带；地区",
+    "phonetic": "/zəʊn/",
+    "example": "This area has been designated as a conservation zone."
+  }
+]
